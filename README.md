@@ -409,15 +409,15 @@ curl -fsSL https://raw.githubusercontent.com/Markovmodcn/openclaw-china/main/scr
 
 ## 📸 演示截图
 
-### 硬件检测与性能评分
+### 推荐模型
 
-![硬件检测](./images/demo/hardware-detection.png)
+![推荐模型](./images/demo/workflow-editor.png)
 
-### 工作流可视化编辑器
+### 硬件信息
 
-![工作流编辑器](./images/demo/workflow-editor.png)
+![硬件信息](./images/demo/hardware-detection.png)
 
-### 技能插件市场
+### 插件市场
 
 ![插件市场](./images/demo/skills-market.png)
 
