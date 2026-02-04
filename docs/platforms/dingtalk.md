@@ -198,6 +198,3 @@ OpenClaw China 支持钉钉 AI Card 流式输出，体验最佳：
 
 - [OpenClaw China 官网](https://www.markovmod.com)
 - [OpenClaw China GitHub](https://github.com/Markovmodcn/openclaw-china)
-- [钉钉开放平台](https://open-dev.dingtalk.com/)
-- [OpenClaw 官方文档](https://openclaw.ai/docs)
-

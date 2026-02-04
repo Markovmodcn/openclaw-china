@@ -390,7 +390,7 @@ NexusBot 基于开源项目 OpenClaw 深度开发，我们深知开源的价值�
 **如果 NexusBot 帮到了你**，欢迎通过官方渠道支持项目：
 
 <p align="center">
-  <img src="./images/donate.png" width="300" alt="支持我们">
+  <img src="./images/donate.png" alt="支持我们">
 </p>
 
 <p align="center">
