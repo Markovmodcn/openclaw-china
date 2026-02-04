@@ -9,6 +9,9 @@
   <strong>Ready-to-use OpenClaw Chinese Edition | DingTalk/Feishu/WeCom | Local Models | Privacy First</strong>
 </p>
 
+<p align="center">
+  <strong>✨ 支持 Windows / macOS / Linux 系统 | 一键安装 | 无需复杂脚本 ✨</strong>
+</p>
 
 <p align="center">
   <a href="./README.md">简体中文</a> •
