@@ -409,13 +409,29 @@ curl -fsSL https://raw.githubusercontent.com/Markovmodcn/openclaw-china/main/scr
 
 ## 📸 演示截图
 
-### 钉钉 AI Card 流式输出
+### 硬件检测与性能评分
 
-![钉钉演示](./images/demo/dingtalk-demo_1.gif)
+![硬件检测](./images/demo/hardware-detection.png)
+
+### 工作流可视化编辑器
+
+![工作流编辑器](./images/demo/workflow-editor.png)
+
+### 技能插件市场
+
+![插件市场](./images/demo/skills-market.png)
+
+### 聊天界面
+
+![聊天界面](./images/demo/chat-interface.png)
 
 ### 配置界面
 
-![配置界面](./images/demo/dingtalk-demo_3.png)
+![配置界面](./images/demo/config-interface.png)
+
+### 钉钉 AI Card 流式输出
+
+![钉钉演示](./images/demo/dingtalk-demo_1.gif)
 
 ---
 
