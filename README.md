@@ -28,7 +28,9 @@
 
 ## 🦞 什么是 NexusBot？
 
-**官网**: [www.markovmod.com](https://www.markovmod.com)
+<p align="center">
+  <strong>🌐 官网: <a href="https://www.markovmod.com" target="_blank">www.markovmod.com</a></strong>
+</p>
 
 **NexusBot** 是基于 [OpenClaw](https://openclaw.ai/) 深度开发的中文版发行版，专为中文用户和企业打造。
 
