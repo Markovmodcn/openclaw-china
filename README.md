@@ -28,6 +28,8 @@
 
 ## 🦞 什么是 NexusBot？
 
+**官网**: [www.markovmod.com](https://www.markovmod.com)
+
 **NexusBot** 是基于 [OpenClaw](https://openclaw.ai/) 深度开发的中文版发行版，专为中文用户和企业打造。
 
 [OpenClaw](https://openclaw.ai/) 是由 Peter Steinberger ([@steipete](https://github.com/steipete)) 创建的开源个人 AI 助手平台，在 GitHub 上拥有超过 **100,000+ Stars**。
