@@ -1,7 +1,7 @@
-﻿# NexusBot | OpenClaw 中文版
+﻿# NexusBot | OpenClaw 中文版 | AI 助手 | 钉钉机器人 | 飞书机器人 | 企业微信机器人
 
 <p align="center">
-  <img src="./logo.png" width="180" alt="NexusBot">
+  <img src="./images/logo.png" alt="NexusBot">
 </p>
 
 <p align="center">
@@ -362,7 +362,7 @@ OpenClaw 原项目由 [Peter Steinberger](https://github.com/steipete) 创建，
 - 💬 微信用户群 - 扫码加入，获取实时帮助
 
 <p align="center">
-  <img src="./wx.png" width="200" alt="微信用户群">
+  <img src="./images/wx.png" width="200" alt="微信用户群">
 </p>
 
 ---
