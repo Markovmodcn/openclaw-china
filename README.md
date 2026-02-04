@@ -1,4 +1,4 @@
-﻿# NexusBot | OpenClaw 中文版 | AI 助手 | 钉钉机器人 | 飞书机器人 | 企业微信机器人
+﻿# NexusBot | OpenClaw 中文版 | AI 工作流自动化 | 钉钉/飞书/企微机器人 | 国人专属
 
 <p align="center">
   <img src="./images/logo.png" alt="NexusBot">
@@ -51,29 +51,98 @@ NexusBot 不是简单的汉化版本，而是基于 OpenClaw 的深度定制开�
 
 ### 🎯 解决的核心痛点
 
-| 痛点 | OpenClaw 官方版 | NexusBot 解决方案 |
-|------|----------------|------------------|
-| 🔧 **安装复杂** | 需要命令行、配置环境变量 | ✅ 双击 EXE 即可，零门槛 |
-| 🌐 **中文支持差** | 英文界面，中文文档缺失 | ✅ 完整中文界面和文档 |
-| 💬 **国内平台不支持** | 只支持 Telegram/Discord | ✅ 原生支持钉钉/飞书/企微 |
-| 🔑 **API 配置难** | 手动编辑配置文件 | ✅ 图形化配置，一键测试 |
-| 💰 **成本高** | 依赖国外 API，费用高 | ✅ 支持本地模型，完全免费 |
-| 🔒 **隐私担忧** | 数据发送到云端 | ✅ 本地模型，数据不出本地 |
-| 🚫 **网络限制** | 需要访问国外服务 | ✅ 支持国内 AI 模型和平台 |
+<table>
+<thead>
+<tr>
+<th width="20%">痛点</th>
+<th width="35%">OpenClaw 官方版</th>
+<th width="45%">NexusBot 解决方案</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>🔧 <strong>安装复杂</strong></td>
+<td>需要命令行、配置环境变量</td>
+<td>✅ 双击 EXE 即可，零门槛</td>
+</tr>
+<tr>
+<td>🌐 <strong>中文支持差</strong></td>
+<td>英文界面，中文文档缺失</td>
+<td>✅ 完整中文界面和文档</td>
+</tr>
+<tr>
+<td>💬 <strong>国内平台不支持</strong></td>
+<td>只支持 Telegram/Discord</td>
+<td>✅ 原生支持钉钉/飞书/企微</td>
+</tr>
+<tr>
+<td>🔑 <strong>API 配置难</strong></td>
+<td>手动编辑配置文件</td>
+<td>✅ 图形化配置，一键测试</td>
+</tr>
+<tr>
+<td>💰 <strong>成本高</strong></td>
+<td>依赖国外 API，费用高</td>
+<td>✅ 支持本地模型，完全免费</td>
+</tr>
+<tr>
+<td>🔒 <strong>隐私担忧</strong></td>
+<td>数据发送到云端</td>
+<td>✅ 本地模型，数据不出本地</td>
+</tr>
+<tr>
+<td>🚫 <strong>网络限制</strong></td>
+<td>需要访问国外服务</td>
+<td>✅ 支持国内 AI 模型和平台</td>
+</tr>
+</tbody>
+</table>
 
 
 ### 核心特性
 
-| 特性 | 说明 |
-|------|------|
-| 🖥️ **运行在本地** | Windows/macOS/Linux，数据始终在本地，隐私优先 |
-| 💬 **中文消息平台** | 原生支持钉钉、飞书、企业微信 |
-| 🌏 **多语言支持** | 完整支持中文、英文、日语界面和文档 |
-| 🤖 **本地 AI 模型** | 支持 Ollama/LM Studio，数据不出本地，完全免费 |
-| 🔌 **海量技能插件** | 3000+ 社区技能（不断增加中...），后台一键安装，支持订制开发 |
-| 🧠 **持久记忆** | 记住你的偏好、上下文，成为专属于你的 AI |
-| 🌐 **浏览器控制** | 自动浏览网页、填写表单、提取数据 |
-| ⚡ **完整系统访问** | 读写文件、运行脚本、执行命令 |
+<table>
+<thead>
+<tr>
+<th width="25%">特性</th>
+<th width="75%">说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>🖥️ <strong>运行在本地</strong></td>
+<td>Windows/macOS/Linux，数据始终在本地，隐私优先</td>
+</tr>
+<tr>
+<td>💬 <strong>中文消息平台</strong></td>
+<td>原生支持钉钉、飞书、企业微信</td>
+</tr>
+<tr>
+<td>🌏 <strong>多语言支持</strong></td>
+<td>完整支持中文、英文、日语界面和文档</td>
+</tr>
+<tr>
+<td>🤖 <strong>本地 AI 模型</strong></td>
+<td>支持 Ollama/LM Studio，数据不出本地，完全免费</td>
+</tr>
+<tr>
+<td>🔌 <strong>海量技能插件</strong></td>
+<td>3000+ 社区技能（不断增加中...），后台一键安装，支持订制开发</td>
+</tr>
+<tr>
+<td>🧠 <strong>持久记忆</strong></td>
+<td>记住你的偏好、上下文，成为专属于你的 AI</td>
+</tr>
+<tr>
+<td>🌐 <strong>浏览器控制</strong></td>
+<td>自动浏览网页、填写表单、提取数据</td>
+</tr>
+<tr>
+<td>⚡ <strong>完整系统访问</strong></td>
+<td>读写文件、运行脚本、执行命令</td>
+</tr>
+</tbody>
+</table>
 
 ### 🔌 完整的技能生态系统
 
@@ -112,14 +181,47 @@ NexusBot 不是简单的汉化版本，而是基于 OpenClaw 的深度定制开�
 
 ### 为什么选择 NexusBot？
 
-| 特性 | OpenClaw 官方版 | NexusBot |
-|------|----------------|----------|
-| 安装方式 | 命令行安装 | ✅ 一键 EXE 安装 |
-| 中国消息平台 | 需手动配置 | ✅ 原生支持钉钉/飞书/企微 |
-| 中国 AI 模型 | 需手动配置 | ✅ 预集成 DeepSeek/Kimi 等 |
-| 图形化界面 | 命令行为主 | ✅ 完整 GUI 配置界面 |
-| 中文文档 | 英文为主 | ✅ 完整中文文档 |
-| 开箱即用 | 需要配置 | ✅ 一键启动 |
+<table>
+<thead>
+<tr>
+<th width="25%">特性</th>
+<th width="35%">OpenClaw 官方版</th>
+<th width="40%">NexusBot</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>安装方式</strong></td>
+<td>命令行安装</td>
+<td>✅ 一键 EXE 安装</td>
+</tr>
+<tr>
+<td><strong>中国消息平台</strong></td>
+<td>需手动配置</td>
+<td>✅ 原生支持钉钉/飞书/企微</td>
+</tr>
+<tr>
+<td><strong>中国 AI 模型</strong></td>
+<td>需手动配置</td>
+<td>✅ 预集成 DeepSeek/Kimi 等</td>
+</tr>
+<tr>
+<td><strong>图形化界面</strong></td>
+<td>命令行为主</td>
+<td>✅ 完整 GUI 配置界面</td>
+</tr>
+<tr>
+<td><strong>中文文档</strong></td>
+<td>英文为主</td>
+<td>✅ 完整中文文档</td>
+</tr>
+<tr>
+<td><strong>开箱即用</strong></td>
+<td>需要配置</td>
+<td>✅ 一键启动</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
