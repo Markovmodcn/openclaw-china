@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <strong>🔥 内测席位有限，申请从速。本月中开放 🔥</strong>
+</p>
+
+<p align="center">
   <strong>开箱即用的 OpenClaw 中文版 | 支持钉钉/飞书/企微 | 本地模型 | 隐私优先</strong><br>
   <strong>Ready-to-use OpenClaw Chinese Edition | DingTalk/Feishu/WeCom | Local Models | Privacy First</strong>
 </p>
