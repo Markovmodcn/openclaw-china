@@ -37,7 +37,7 @@
 
 **NexusBot** 是基于 [OpenClaw](https://openclaw.ai/) 深度开发的中文版发行版，专为中文用户和企业打造。
 
-[OpenClaw](https://openclaw.ai/) 是由 Peter Steinberger ([@steipete](https://github.com/steipete)) 创建的开源个人 AI 助手平台，在 GitHub 上拥有超过 **100,000+ Stars**。
+[OpenClaw](https://openclaw.ai/) 是由 Peter Steinberger (@steipete) 创建的开源个人 AI 助手平台，在 GitHub 上拥有超过 **100,000+ Stars**。
 
 ### 🌟 基于 OpenClaw 深度开发
 
@@ -533,7 +533,7 @@ NexusBot 完全基于 OpenClaw 官方版本，并针对中国用户优化：
 
 本项目基于 OpenClaw 开源项目，采用商业许可。
 
-OpenClaw 原项目由 [Peter Steinberger](https://github.com/steipete) 创建，版权归原作者所有。
+OpenClaw 原项目由 Peter Steinberger 创建，版权归原作者所有。
 
 ---
 
