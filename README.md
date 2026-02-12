@@ -19,7 +19,7 @@
 
 [简体中文](./README.md) · [English](./README.en.md) · [日本語](./README.ja.md)
 
-**官网：[www.markovmod.com](https://www.markovmod.com)**
+**官网：[www.neuxsbot.com](https://www.neuxsbot.com)**
 
 </div>
 
