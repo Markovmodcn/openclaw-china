@@ -19,7 +19,7 @@
 <br><br>
 
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-中文版-00C853)](https://openclaw.ai/)
-[![Platform](https://img.shields.io/badge/支持-钉钉%20%7C%20飞书%20%7C%20企微-FF6B6B)]()
+[![Platform](https://img.shields.io/badge/支持-钉钉%20%7C%20飞书-FF6B6B)]()
 [![Privacy](https://img.shields.io/badge/本地模型-隐私优先-9C27B0)]()
 [![Release](https://img.shields.io/github/v/release/Markovmodcn/openclaw-china)]()
 
@@ -459,11 +459,6 @@ NexusBot 内置 20+ 专业技能，每个技能都是一个专业能力模块，
 ✅ 长连接模式  
 ✅ 完整功能支持  
 ✅ 企业级稳定
-
-**企业微信 (WeCom)**  
-✅ 流式响应  
-✅ 支持主动发送  
-✅ 灵活性更强
 
 </div>
 
@@ -935,11 +930,11 @@ PDF/HTML 格式
 
 ### 3️⃣ 配置消息平台
 
-选择钉钉、飞书或企业微信，按照向导完成配置
+选择钉钉或飞书，按照向导完成配置
 
 ### 4️⃣ 开始使用
 
-在手机上打开钉钉/飞书/企微，搜索你的机器人，开始对话！
+在手机上打开钉钉/飞书，搜索你的机器人，开始对话！
 
 </div>
 
@@ -949,7 +944,7 @@ PDF/HTML 格式
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%" align="center">
 
 <div style="background: #e3f2fd; border-radius: 12px; padding: 20px; margin: 8px;">
 
@@ -963,7 +958,7 @@ PDF/HTML 格式
 </div>
 
 </td>
-<td width="33%" align="center">
+<td width="50%" align="center">
 
 <div style="background: #f3e5f5; border-radius: 12px; padding: 20px; margin: 8px;">
 
@@ -971,20 +966,6 @@ PDF/HTML 格式
 
 完整功能支持  
 企业级稳定
-
-[📖 配置指南](https://www.neuxsbot.com/docs)
-
-</div>
-
-</td>
-<td width="33%" align="center">
-
-<div style="background: #fff3e0; border-radius: 12px; padding: 20px; margin: 8px;">
-
-### 企业微信
-
-支持主动发送  
-灵活性更强
 
 [📖 配置指南](https://www.neuxsbot.com/docs)
 
@@ -1002,7 +983,7 @@ PDF/HTML 格式
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%" align="center">
 
 <img src="https://img.shields.io/badge/钉钉-支持-00C853?style=for-the-badge&logo=dingtalk" alt="钉钉">
 
@@ -1014,7 +995,7 @@ PDF/HTML 格式
 ✅ 私聊/群聊/@机器人
 
 </td>
-<td width="33%" align="center">
+<td width="50%" align="center">
 
 <img src="https://img.shields.io/badge/飞书-支持-0078D4?style=for-the-badge&logo=feishu" alt="飞书">
 
@@ -1024,19 +1005,6 @@ PDF/HTML 格式
 ✅ 图片/文件（接收）  
 ✅ 私聊/群聊/@机器人  
 🚧 流式响应开发中
-
-</td>
-<td width="33%" align="center">
-
-<img src="https://img.shields.io/badge/企业微信-支持-07C160?style=for-the-badge&logo=wechat" alt="企业微信">
-
-**完整支持**
-
-✅ 流式响应  
-✅ 文本/Markdown  
-✅ 图片/文件/语音（接收）  
-✅ 私聊/群聊/@机器人  
-✅ 主动发送
 
 </td>
 </tr>
@@ -1152,7 +1120,7 @@ NexusBot 完全基于 OpenClaw 官方版本，并针对中国用户优化：
 
 <br>
 
-可以！NexusBot 支持同时配置钉钉、飞书和企业微信，您可以在不同平台上使用同一个 AI 助手。
+可以！NexusBot 支持同时配置钉钉和飞书，您可以在不同平台上使用同一个 AI 助手。
 
 </details>
 
