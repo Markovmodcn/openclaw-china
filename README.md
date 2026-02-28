@@ -78,102 +78,58 @@
 
 <div align="center">
 
-## 🌟 五大核心能力
+## 🌟 四大核心能力
 
 </div>
+
+<br>
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-<div style="background: #f8f9fa; border-radius: 20px; padding: 32px; margin: 16px;">
+### 📱 手机控制电脑
 
-### 🌉 智能桥接器
+**随时随地远程指挥**
 
-**手机远程控制电脑**
-
-钉钉/飞书随时指挥  
-电脑自动执行任务  
-7×24 小时待命
-
-</div>
+- 手机成为遥控器
+- 电脑成为执行终端
+- 不再需要坐在电脑前
 
 </td>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-<div style="background: #f8f9fa; border-radius: 20px; padding: 32px; margin: 16px;">
+### ⏰ 24小时工作
 
-### 🎯 超级技能系统
+**永不停歇的自动化**
 
-**20+ 内置专业技能**
-
-文档处理/代码开发  
-自定义技能创建  
-8000+ 生态技能
-
-</div>
-
-</td>
-<td width="33%" align="center">
-
-<div style="background: #f8f9fa; border-radius: 20px; padding: 32px; margin: 16px;">
-
-### 🛡️ 沙箱安全模式
-
-**隔离环境执行代码**
-
-VM 虚拟环境  
-保护系统安全  
-自动检测风险
-
-</div>
+- 定时触发任务
+- 事件自动响应
+- 7×24 全自动运行
 
 </td>
 </tr>
 <tr>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-<div style="background: #f8f9fa; border-radius: 20px; padding: 32px; margin: 16px;">
+### � 自动工作流
 
-### 🤖 多模型支持
+**复杂任务一键化**
 
-**10+ 主流 AI 模型**
-
-本地模型零成本  
-云端模型强能力  
-灵活切换使用
-
-</div>
+- 可视化编辑器
+- 拖拽式设计
+- 100+ 预置模板
 
 </td>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-<div style="background: #f8f9fa; border-radius: 20px; padding: 32px; margin: 16px;">
+### 🤖 本地+云端AI
 
-### 📝 智能对话
+**能力与隐私平衡**
 
-**上下文理解记忆**
-
-多轮迭代优化  
-文件拖拽分析  
-代码高亮显示
-
-</div>
-
-</td>
-<td width="33%" align="center">
-
-<div style="background: #f8f9fa; border-radius: 20px; padding: 32px; margin: 16px;">
-
-### 📊 任务管理
-
-**历史记录自动保存**
-
-搜索快速定位  
-任务分类管理  
-随时继续工作
-
-</div>
+- 本地模型零成本
+- 云端模型强能力
+- 灵活切换使用
 
 </td>
 </tr>
@@ -684,72 +640,58 @@ OpenClaw 是由 Peter Steinberger (@steipete) 创建的开源个人 AI 助手平
 
 ### 📦 常用工作流模板
 
+<br>
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-<div style="background: #e3f2fd; border-radius: 12px; padding: 20px; margin: 8px;">
+#### 🤖 智能客服
 
-**🤖 智能客服**
+- 自动回复常见问题
+- 复杂问题转人工
+- 24小时在线服务
 
-自动回复常见问题  
-复杂问题转人工  
-24小时在线服务
+<br>
 
-</div>
+#### 📊 日报生成
 
-<div style="background: #f3e5f5; border-radius: 12px; padding: 20px; margin: 8px;">
+- 自动汇总数据
+- 生成日报并发送
+- 定时执行无需人工
 
-**📊 日报生成**
+<br>
 
-自动汇总数据  
-生成日报并发送  
-定时执行无需人工
+#### 🔍 舆情监控
 
-</div>
-
-<div style="background: #fff3e0; border-radius: 12px; padding: 20px; margin: 8px;">
-
-**🔍 舆情监控**
-
-监控关键词  
-异常情况自动告警  
-实时响应
-
-</div>
+- 监控关键词
+- 异常情况自动告警
+- 实时响应
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-<div style="background: #e8f5e9; border-radius: 12px; padding: 20px; margin: 8px;">
+#### 📄 文档处理
 
-**📄 文档处理**
+- 批量处理文档
+- 提取关键信息
+- 自动分类归档
 
-批量处理文档  
-提取关键信息  
-自动分类归档
+<br>
 
-</div>
+#### 📅 会议助手
 
-<div style="background: #fce4ec; border-radius: 12px; padding: 20px; margin: 8px;">
+- 会议记录→总结
+- 待办事项→提醒
+- 全程自动化
 
-**📅 会议助手**
+<br>
 
-会议记录→总结  
-待办事项→提醒  
-全程自动化
+#### 📧 邮件管理
 
-</div>
-
-<div style="background: #e0f2f1; border-radius: 12px; padding: 20px; margin: 8px;">
-
-**📧 邮件管理**
-
-自动分类邮件  
-提取重要信息  
-智能回复
-
-</div>
+- 自动分类邮件
+- 提取重要信息
+- 智能回复
 
 </td>
 </tr>
