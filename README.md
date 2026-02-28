@@ -460,6 +460,11 @@ NexusBot 内置 20+ 专业技能，每个技能都是一个专业能力模块，
 ✅ 完整功能支持  
 ✅ 企业级稳定
 
+**企业微信 (WeCom)**  
+✅ 流式响应  
+✅ 支持主动发送  
+✅ 灵活性更强
+
 </div>
 
 </td>
@@ -991,19 +996,55 @@ PDF/HTML 格式
 
 <br>
 
-### 🎯 消息平台功能对比
+### 🎯 支持的消息平台
 
-| 功能 | 钉钉 | 飞书 | 企业微信 |
-|------|:----:|:----:|:--------:|
-| 文本消息 | ✅ | ✅ | ✅ |
-| Markdown | ✅ | ✅ | ✅ |
-| 流式响应 | ✅ AI Card | 🚧 开发中 | ✅ |
-| 图片/文件 | ✅ | ✅ 接收 | ✅ |
-| 语音消息 | ✅ | 🚧 开发中 | ✅ 接收 |
-| 私聊 | ✅ | ✅ | ✅ |
-| 群聊 | ✅ | ✅ | ✅ |
-| @机器人 | ✅ | ✅ | ✅ |
-| 主动发送 | ❌ | ❌ | ✅ |
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+<img src="https://img.shields.io/badge/钉钉-支持-00C853?style=for-the-badge&logo=dingtalk" alt="钉钉">
+
+**完整支持**
+
+✅ AI Card 流式输出  
+✅ 文本/Markdown  
+✅ 图片/文件/语音  
+✅ 私聊/群聊/@机器人
+
+</td>
+<td width="33%" align="center">
+
+<img src="https://img.shields.io/badge/飞书-支持-0078D4?style=for-the-badge&logo=feishu" alt="飞书">
+
+**完整支持**
+
+✅ 文本/Markdown  
+✅ 图片/文件（接收）  
+✅ 私聊/群聊/@机器人  
+🚧 流式响应开发中
+
+</td>
+<td width="33%" align="center">
+
+<img src="https://img.shields.io/badge/企业微信-支持-07C160?style=for-the-badge&logo=wechat" alt="企业微信">
+
+**完整支持**
+
+✅ 流式响应  
+✅ 文本/Markdown  
+✅ 图片/文件/语音（接收）  
+✅ 私聊/群聊/@机器人  
+✅ 主动发送
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
 
 💡 **钉钉 AI Card** 支持打字机效果的流式输出，体验最佳！
 
