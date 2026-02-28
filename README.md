@@ -35,6 +35,8 @@
 
 ### 🚀 手机控制电脑 · 真正的跨端远程协作
 
+<img src="./images/nexusbot-mobile-control.jpg" alt="手机控制电脑" style="border-radius: 12px; max-width: 800px; margin: 20px 0;">
+
 </div>
 
 <table>
@@ -185,6 +187,12 @@ VM 虚拟环境
 
 ## 🎯 典型应用场景
 
+<div align="center">
+
+<img src="./images/business-scenarios.jpg" alt="典型应用场景" style="border-radius: 12px; max-width: 800px; margin: 20px 0;">
+
+</div>
+
 <div style="background: linear-gradient(to right, #e0f7fa, #e1f5fe); border-radius: 16px; padding: 24px; margin: 20px 0;">
 
 ### 📊 场景一：自动生成周报
@@ -234,13 +242,19 @@ VM 虚拟环境
 <br>
 
 
-## 🎯 超级内置技能
+## 🎯 内置超级技能
 
 <div align="center">
 
-### 20+ 专业技能 · 开箱即用 · 支持自定义
+### 20+ 专业技能 · 覆盖开发/设计/办公 · 支持自定义创建
+
+<img src="./images/ai-capability-matrix.jpg" alt="AI能力矩阵" style="border-radius: 12px; max-width: 800px; margin: 20px 0;">
 
 </div>
+
+<br>
+
+NexusBot 内置 20+ 专业技能，每个技能都是一个专业能力模块，让 AI 掌握特定领域的知识和工具。
 
 <br>
 
@@ -252,69 +266,133 @@ VM 虚拟环境
 
 <div style="background: #e3f2fd; border-radius: 12px; padding: 20px; margin: 8px;">
 
-**docx - Word 文档**  
-生成技术文档、需求文档、批量提取信息
+**docx - Word 文档处理**  
+✅ 生成技术文档、需求文档  
+✅ 批量提取文档关键信息  
+✅ 文档格式转换和排版优化
 
-**xlsx - Excel 表格**  
-数据分析、报表生成、公式计算
+**示例**：「根据这份代码生成 API 文档，保存为 Word 格式」
 
-**pptx - PowerPoint**  
-技术分享、产品演示、会议汇报
+---
 
-**pdf - PDF 处理**  
-提取文本表格、分析合同报告
+**xlsx - Excel 表格处理**  
+✅ 数据清洗和格式化  
+✅ 生成数据报表  
+✅ 复杂公式计算和数据透视
+
+**示例**：「帮我分析这份销售数据，生成月度趋势图」
+
+---
+
+**pptx - PowerPoint 演示文稿**  
+✅ 技术分享 PPT 制作  
+✅ 产品演示文稿生成  
+✅ 会议汇报材料准备
+
+**示例**：「根据这份项目总结，生成 10 页的汇报 PPT」
+
+---
+
+**pdf - PDF 文档处理**  
+✅ 提取 PDF 中的文本和表格  
+✅ 分析合同、报告等 PDF 文件  
+✅ PDF 内容结构化处理
+
+**示例**：「读取这份 PDF 合同，提取所有关键条款」
 
 </div>
 
-### 💻 开发工具技能
+### � 开发工具技能
 
 <div style="background: #f3e5f5; border-radius: 12px; padding: 20px; margin: 8px;">
 
-**develop-web-game**  
-HTML5 游戏开发、Canvas 动画
+**develop-web-game - 网页游戏开发**  
+✅ 使用 HTML5 Canvas 和 JavaScript  
+✅ 支持休闲、益智、动作等游戏类型  
+✅ 提供完整的游戏循环和碰撞检测
 
-**playwright**  
-浏览器自动化、E2E 测试、数据抓取
+**示例**：「帮我做一个打飞机小游戏，用键盘控制」
 
-**frontend-design**  
-现代化 UI 组件、响应式布局
+---
 
-**canvas-design**  
-数据可视化、自定义图形绘制
+**playwright - 浏览器自动化**  
+✅ 端到端测试脚本编写  
+✅ 网页内容批量抓取  
+✅ 自动化表单填写和操作
+
+**示例**：「写一个自动化测试，检查登录流程」
+
+---
+
+**frontend-design - 前端设计**  
+✅ 创建现代化的前端界面和组件  
+✅ 响应式布局  
+✅ 可访问性（a11y）支持
+
+**示例**：「设计一个现代化的登录页面，支持深色模式」
 
 </div>
 
 </td>
 <td width="50%">
 
-### 🛠️ 实用工具技能
+### 🎨 设计工具技能
 
 <div style="background: #fff3e0; border-radius: 12px; padding: 20px; margin: 8px;">
 
-**web-search**  
-搜索互联网获取最新信息
+**canvas-design - Canvas 设计**  
+✅ 数据可视化图表  
+✅ 自定义图形绘制  
+✅ 交互式画布应用
 
-**create-plan**  
-项目规划、任务分解、学习路径
-
-**skill-creator** ⭐  
-创建自定义技能、扩展 AI 能力
+**示例**：「用 Canvas 绘制一个公司组织架构图」
 
 </div>
 
-### 🎨 自定义技能
+### 🛠️ 实用工具技能
 
 <div style="background: #e8f5e9; border-radius: 12px; padding: 20px; margin: 8px;">
 
-**无限可能**
+**web-search - 网络搜索**  
+✅ 让 AI 搜索互联网获取最新信息  
+✅ 查找技术文档和教程  
+✅ 获取实时数据和新闻
 
-通过 skill-creator 创建专属技能：
+**示例**：「搜索 React 18 的新特性有哪些」
 
-✅ 团队代码规范生成器  
-✅ 企业文档模板助手  
-✅ 自动化部署流程  
-✅ 业务数据分析工具  
-✅ 任何你需要的能力...
+---
+
+**create-plan - 创建计划**  
+✅ 项目启动阶段的任务规划  
+✅ 复杂功能的实现步骤分解  
+✅ 学习路径制定
+
+**示例**：「帮我规划一个电商网站的开发计划」
+
+---
+
+**skill-creator - 技能创建器** ⭐  
+✅ 创建自定义技能，扩展 NexusBot 的能力  
+✅ 为特定业务场景定制技能  
+✅ 集成自己的工具和流程  
+✅ 构建团队专属的技能库
+
+**示例**：「创建一个技能，用于生成我们公司格式的测试用例」
+
+</div>
+
+### 🌐 8000+ 生态技能
+
+<div style="background: #fce4ec; border-radius: 12px; padding: 20px; margin: 8px;">
+
+继承 OpenClaw 完整生态，持续增加中：
+
+**1Password** - 密码管理集成  
+**GitHub** - 代码仓库管理  
+**Jira** - 项目管理  
+**Slack** - 团队协作  
+**Apple Notes** - 笔记同步  
+**更多...** 8000+ 技能等你探索
 
 </div>
 
@@ -350,6 +428,8 @@ HTML5 游戏开发、Canvas 动画
 <div align="center">
 
 ### 手机远程控制电脑 · 随时随地办公
+
+<img src="./images/nexusbot-workflow.jpg" alt="智能桥接器工作流" style="border-radius: 12px; max-width: 800px; margin: 20px 0;">
 
 </div>
 
