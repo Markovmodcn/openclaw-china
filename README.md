@@ -12,6 +12,12 @@
 
 <br>
 
+<a href="https://www.neuxsbot.com/download" style="display: inline-block; padding: 16px 48px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 50px; font-size: 18px; font-weight: bold; box-shadow: 0 8px 20px rgba(102, 126, 234, 0.4); transition: all 0.3s ease;">
+  📥 立即下载 NexusBot
+</a>
+
+<br><br>
+
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-中文版-00C853)](https://openclaw.ai/)
 [![Platform](https://img.shields.io/badge/支持-钉钉%20%7C%20飞书%20%7C%20企微-FF6B6B)]()
 [![Privacy](https://img.shields.io/badge/本地模型-隐私优先-9C27B0)]()
@@ -86,50 +92,48 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="25%" align="center" valign="top">
 
 ### 📱 手机控制电脑
 
 **随时随地远程指挥**
 
-- 手机成为遥控器
-- 电脑成为执行终端
-- 不再需要坐在电脑前
+手机成为遥控器  
+电脑成为执行终端  
+不再需要坐在电脑前
 
 </td>
-<td width="50%" valign="top">
+<td width="25%" align="center" valign="top">
 
 ### ⏰ 24小时工作
 
 **永不停歇的自动化**
 
-- 定时触发任务
-- 事件自动响应
-- 7×24 全自动运行
+定时触发任务  
+事件自动响应  
+7×24 全自动运行
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="25%" align="center" valign="top">
 
-### � 自动工作流
+### 🔄 自动工作流
 
 **复杂任务一键化**
 
-- 可视化编辑器
-- 拖拽式设计
-- 100+ 预置模板
+可视化编辑器  
+拖拽式设计  
+100+ 预置模板
 
 </td>
-<td width="50%" valign="top">
+<td width="25%" align="center" valign="top">
 
 ### 🤖 本地+云端AI
 
 **能力与隐私平衡**
 
-- 本地模型零成本
-- 云端模型强能力
-- 灵活切换使用
+本地模型零成本  
+云端模型强能力  
+灵活切换使用
 
 </td>
 </tr>
