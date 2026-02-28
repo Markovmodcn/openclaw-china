@@ -1009,53 +1009,7 @@ PDF/HTML 格式
 
 <br>
 
-## 📸 产品截图
-
-<div align="center">
-
-### 推荐模型
-
-<img src="./images/demo/workflow-editor.png" alt="推荐模型" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-
-<br><br>
-
-### 硬件信息
-
-<img src="./images/demo/hardware-detection.png" alt="硬件信息" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-
-<br><br>
-
-### 插件市场
-
-<img src="./images/demo/skills-market.png" alt="插件市场" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-
-<br><br>
-
-### 聊天界面
-
-<img src="./images/demo/chat-interface.png" alt="聊天界面" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-
-<br><br>
-
-### 配置界面
-
-<img src="./images/demo/config-interface.png" alt="配置界面" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-
-<br><br>
-
-### 钉钉 AI Card 流式输出
-
-<img src="./images/demo/dingtalk-demo_1.gif" alt="钉钉演示" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-
-</div>
-
-<br>
-
----
-
-<br>
-
-## 📚 完整文档
+## � 完整文档
 
 <table>
 <tr>
