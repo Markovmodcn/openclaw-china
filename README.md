@@ -35,6 +35,51 @@
 
 <br>
 
+## 📦 快速安装
+
+<div align="center">
+
+**Windows / macOS / Linux · 一键安装 · 开箱即用**
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="60%" align="center">
+
+### Windows 用户（推荐）
+
+**📥 一键安装**
+
+✅ 自动安装到系统  
+✅ 创建桌面快捷方式  
+✅ 系统集成更好
+
+[**立即下载 Windows 版**](https://www.neuxsbot.com/download)
+
+</td>
+<td width="40%" align="center">
+
+### 其他平台
+
+**Linux / macOS**
+
+支持多平台部署
+
+[**访问官网下载**](https://www.neuxsbot.com/download)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
 ## 💡 核心理念
 
 <div align="center">
@@ -871,52 +916,7 @@ PDF/HTML 格式
 
 <br>
 
-## 📦 快速安装
-
-<div align="center">
-
-### Windows / macOS / Linux · 一键安装 · 开箱即用
-
-</div>
-
-<br>
-
-### Windows 用户（推荐）
-
-<div align="center">
-
-<div style="background: #e3f2fd; border-radius: 12px; padding: 20px; margin: 8px; max-width: 600px;">
-
-### 📥 一键安装
-
-**推荐所有用户**
-
-✅ 自动安装到系统  
-✅ 创建桌面快捷方式  
-✅ 系统集成更好
-
-[**立即下载**](https://www.neuxsbot.com/download)
-
-</div>
-
-</div>
-
-<br>
-
-### 其他平台
-
-**Linux / macOS:**
-
-[**访问官网下载**](https://www.neuxsbot.com/download)
-
-<br>
-
----
-
-<br>
-
-
-## 🚀 快速开始
+## � 快速开始
 
 <div style="background: linear-gradient(to right, #e0f7fa, #e1f5fe); border-radius: 16px; padding: 24px; margin: 20px 0;">
 
