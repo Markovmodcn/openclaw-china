@@ -558,67 +558,31 @@ PDF/HTML 格式
 
 ### Windows 用户（推荐）
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-<div style="background: #e3f2fd; border-radius: 12px; padding: 20px; margin: 8px;">
+<div style="background: #e3f2fd; border-radius: 12px; padding: 20px; margin: 8px; max-width: 600px;">
 
-### 📥 安装版
+### 📥 一键安装
 
-**推荐大多数用户**
+**推荐所有用户**
 
 ✅ 自动安装到系统  
 ✅ 创建桌面快捷方式  
 ✅ 系统集成更好
 
-[**下载 Setup.exe**](https://github.com/Markovmodcn/openclaw-china/releases/latest/download/NexusBot-Setup.exe)
+[**立即下载**](https://www.neuxsbot.com/download)
 
 </div>
 
-</td>
-<td width="50%">
-
-<div style="background: #f3e5f5; border-radius: 12px; padding: 20px; margin: 8px;">
-
-### 📦 绿色版
-
-**适合便携使用**
-
-✅ 解压即用，无需安装  
-✅ 可放U盘  
-✅ 不写注册表
-
-[**下载 Portable.exe**](https://github.com/Markovmodcn/openclaw-china/releases/latest/download/NexusBot-Portable.exe)
-
 </div>
-
-</td>
-</tr>
-</table>
 
 <br>
 
-### 一键安装脚本
-
-**Windows PowerShell:**
-```powershell
-iwr -useb https://raw.githubusercontent.com/Markovmodcn/openclaw-china/main/scripts/install.ps1 | iex
-```
+### 其他平台
 
 **Linux / macOS:**
-```bash
-curl -fsSL https://raw.githubusercontent.com/Markovmodcn/openclaw-china/main/scripts/install.sh | bash
-```
 
-**Docker 部署:**
-```bash
-docker run -d \
-  --name nexusbot \
-  -p 3000:3000 \
-  -v nexusbot-data:/data \
-  markovmodcn/nexusbot:latest
-```
+[**访问官网下载**](https://www.neuxsbot.com/download)
 
 <br>
 
@@ -664,7 +628,7 @@ docker run -d \
 支持 AI Card 流式输出  
 体验最佳
 
-[📖 配置指南](./docs/platforms/dingtalk.md)
+[📖 配置指南](https://www.neuxsbot.com/docs)
 
 </div>
 
@@ -678,7 +642,7 @@ docker run -d \
 完整功能支持  
 企业级稳定
 
-[📖 配置指南](./docs/platforms/feishu.md)
+[📖 配置指南](https://www.neuxsbot.com/docs)
 
 </div>
 
@@ -692,7 +656,7 @@ docker run -d \
 支持主动发送  
 灵活性更强
 
-[📖 配置指南](./docs/platforms/wecom.md)
+[📖 配置指南](https://www.neuxsbot.com/docs)
 
 </div>
 
@@ -778,20 +742,14 @@ docker run -d \
 
 ### 📖 基础文档
 
-- [安装指南](./docs/install.md)
-- [快速开始](./docs/quickstart.md)
-- [配置说明](./docs/config.md)
-- [常见问题](./docs/faq.md)
-- [更新升级](./docs/update.md)
+- [完整文档](https://www.neuxsbot.com/docs)
 
 </td>
 <td width="50%">
 
 ### 📱 平台配置
 
-- [钉钉配置指南](./docs/platforms/dingtalk.md)
-- [飞书配置指南](./docs/platforms/feishu.md)
-- [企业微信配置指南](./docs/platforms/wecom.md)
+- [查看完整配置指南](https://www.neuxsbot.com/docs)
 
 </td>
 </tr>
@@ -850,8 +808,7 @@ NexusBot 完全基于 OpenClaw 官方版本，并针对中国用户优化：
 
 <br>
 
-- **安装版**: 下载新版本安装包覆盖安装
-- **绿色版**: 下载新版本解压替换
+- **Windows/macOS/Linux**: 访问[官网下载中心](https://www.neuxsbot.com/download)下载最新版本覆盖安装
 - **Docker**: `docker pull markovmodcn/nexusbot:latest`
 
 </details>
@@ -940,9 +897,9 @@ NexusBot 基于开源项目 OpenClaw 深度开发，我们深知开源的价值�
 
 ### NexusBot
 
-- 🌐 [官网](https://www.markovmod.com)
-- 📦 [GitHub Releases](https://github.com/Markovmodcn/openclaw-china/releases)
-- 📚 [完整文档](https://github.com/Markovmodcn/openclaw-china/tree/main/docs)
+- 🌐 [官网](https://www.neuxsbot.com)
+- 📦 [下载中心](https://www.neuxsbot.com/download)
+- 📚 [完整文档](https://www.neuxsbot.com/docs)
 - 🐛 [问题反馈](https://github.com/Markovmodcn/openclaw-china/issues)
 
 </td>
