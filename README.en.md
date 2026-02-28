@@ -37,7 +37,7 @@
 
 NexusBot is not just a translation, but a deep customization based on OpenClaw:
 
-- ✅ **Complete Community Ecosystem** - Inherits 3000+ skill plugins from OpenClaw marketplace (growing continuously...)
+- ✅ **Complete Community Ecosystem** - Inherits 20+ super built-in skills and 8000+ ecosystem skills (continuously growing)
 - ✅ **One-Click Installation** - Graphical interface, install massive skills with one click
 - ✅ **Custom Skill Development** - Support custom skills for specific needs
 - ✅ **Self-developed & Deep Integration** - Continuous optimization, maintaining technical leadership
@@ -64,7 +64,7 @@ NexusBot is not just a translation, but a deep customization based on OpenClaw:
 | 💬 **Chinese Messaging Platforms** | Native support for DingTalk, Feishu, WeCom |
 | 🌏 **Multi-language Support** | Full support for Chinese, English, Japanese interface and docs |
 | 🤖 **Local AI Models** | Support Ollama/LM Studio, data stays local, completely free |
-| 🔌 **Massive Skill Plugins** | 3000+ community skills (growing continuously...), one-click install, custom development |
+| 🔌 **Massive Skill Plugins** | 20+ super built-in skills and 8000+ ecosystem skills (continuously growing), one-click install, custom development |
 | 🧠 **Persistent Memory** | Remember your preferences, context, become your personal AI |
 | 🌐 **Browser Control** | Auto browse web, fill forms, extract data |
 | ⚡ **Full System Access** | Read/write files, run scripts, execute commands |
@@ -74,7 +74,7 @@ NexusBot is not just a translation, but a deep customization based on OpenClaw:
 
 | Feature | Description |
 |---------|-------------|
-| 📦 **3000+ Community Skills** | Inherit OpenClaw's complete ecosystem (growing continuously...) |
+| 📦 **8000+ Community Skills** | Inherit OpenClaw's complete ecosystem (continuously growing) |
 | 🖱️ **One-Click Backend Install** | Graphical interface, search, preview, install seamlessly |
 | 🎨 **Custom Skill Development** | Support custom skills for enterprise needs |
 | 🔄 **Auto Update** | Skills auto-detect updates, stay current |
@@ -86,7 +86,7 @@ NexusBot is not just a translation, but a deep customization based on OpenClaw:
 - **GitHub** - Code repository management
 - **Jira** - Project management
 - **Slack** - Team collaboration
-- **More...** 3000+ skills to explore
+- **More...** 8000+ skills to explore
 
 ### 💎 Advantages of Local Models
 
