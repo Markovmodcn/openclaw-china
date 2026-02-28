@@ -76,70 +76,100 @@
 
 <div align="center">
 
-## 🌟 四大核心能力
+## 🌟 五大核心能力
 
 </div>
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
 <div style="background: #f8f9fa; border-radius: 20px; padding: 32px; margin: 16px;">
 
-### 📱 手机控制电脑
+### 🌉 智能桥接器
 
-**随时随地远程指挥**
+**手机远程控制电脑**
 
-手机成为遥控器  
-电脑成为执行终端  
-不再需要坐在电脑前
+钉钉/飞书随时指挥  
+电脑自动执行任务  
+7×24 小时待命
 
 </div>
 
 </td>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
 <div style="background: #f8f9fa; border-radius: 20px; padding: 32px; margin: 16px;">
 
-### ⏰ 24小时工作
+### 🎯 超级技能系统
 
-**永不停歇的自动化**
+**20+ 内置专业技能**
 
-定时触发任务  
-事件自动响应  
-7×24 全自动运行
+文档处理/代码开发  
+自定义技能创建  
+8000+ 生态技能
+
+</div>
+
+</td>
+<td width="33%" align="center">
+
+<div style="background: #f8f9fa; border-radius: 20px; padding: 32px; margin: 16px;">
+
+### �️ 沙箱安全模式
+
+**隔离环境执行代码**
+
+VM 虚拟环境  
+保护系统安全  
+自动检测风险
 
 </div>
 
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
 <div style="background: #f8f9fa; border-radius: 20px; padding: 32px; margin: 16px;">
 
-### 🔄 自动工作流
+### 🤖 多模型支持
 
-**复杂任务一键化**
-
-可视化编辑器  
-拖拽式设计  
-100+ 预置模板
-
-</div>
-
-</td>
-<td width="50%" align="center">
-
-<div style="background: #f8f9fa; border-radius: 20px; padding: 32px; margin: 16px;">
-
-### 🤖 本地+云端AI
-
-**能力与隐私平衡**
+**10+ 主流 AI 模型**
 
 本地模型零成本  
 云端模型强能力  
 灵活切换使用
+
+</div>
+
+</td>
+<td width="33%" align="center">
+
+<div style="background: #f8f9fa; border-radius: 20px; padding: 32px; margin: 16px;">
+
+### 📝 智能对话
+
+**上下文理解记忆**
+
+多轮迭代优化  
+文件拖拽分析  
+代码高亮显示
+
+</div>
+
+</td>
+<td width="33%" align="center">
+
+<div style="background: #f8f9fa; border-radius: 20px; padding: 32px; margin: 16px;">
+
+### 📊 任务管理
+
+**历史记录自动保存**
+
+搜索快速定位  
+任务分类管理  
+随时继续工作
 
 </div>
 
@@ -204,7 +234,276 @@
 <br>
 
 
-## 🦞 什么是 NexusBot？
+## 🎯 超级内置技能
+
+<div align="center">
+
+### 20+ 专业技能 · 开箱即用 · 支持自定义
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%">
+
+### 📄 文档处理技能
+
+<div style="background: #e3f2fd; border-radius: 12px; padding: 20px; margin: 8px;">
+
+**docx - Word 文档**  
+生成技术文档、需求文档、批量提取信息
+
+**xlsx - Excel 表格**  
+数据分析、报表生成、公式计算
+
+**pptx - PowerPoint**  
+技术分享、产品演示、会议汇报
+
+**pdf - PDF 处理**  
+提取文本表格、分析合同报告
+
+</div>
+
+### 💻 开发工具技能
+
+<div style="background: #f3e5f5; border-radius: 12px; padding: 20px; margin: 8px;">
+
+**develop-web-game**  
+HTML5 游戏开发、Canvas 动画
+
+**playwright**  
+浏览器自动化、E2E 测试、数据抓取
+
+**frontend-design**  
+现代化 UI 组件、响应式布局
+
+**canvas-design**  
+数据可视化、自定义图形绘制
+
+</div>
+
+</td>
+<td width="50%">
+
+### 🛠️ 实用工具技能
+
+<div style="background: #fff3e0; border-radius: 12px; padding: 20px; margin: 8px;">
+
+**web-search**  
+搜索互联网获取最新信息
+
+**create-plan**  
+项目规划、任务分解、学习路径
+
+**skill-creator** ⭐  
+创建自定义技能、扩展 AI 能力
+
+</div>
+
+### 🎨 自定义技能
+
+<div style="background: #e8f5e9; border-radius: 12px; padding: 20px; margin: 8px;">
+
+**无限可能**
+
+通过 skill-creator 创建专属技能：
+
+✅ 团队代码规范生成器  
+✅ 企业文档模板助手  
+✅ 自动化部署流程  
+✅ 业务数据分析工具  
+✅ 任何你需要的能力...
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div style="background: linear-gradient(to right, #e0f7fa, #e1f5fe); border-radius: 16px; padding: 24px; margin: 20px 0;">
+
+### 💡 技能使用示例
+
+**场景：数据分析报告生成**
+
+1. 启用 xlsx 和 docx 技能
+2. 上传销售数据 Excel 文件
+3. 输入：「分析这份销售数据，找出 Top 10 产品和销售趋势，生成包含图表的 Word 报告」
+4. AI 自动完成：读取数据 → 计算指标 → 生成图表 → 输出报告
+
+**预计耗时：5-10 分钟**（传统方式可能需要 1-2 小时）
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## 🌉 智能桥接器
+
+<div align="center">
+
+### 手机远程控制电脑 · 随时随地办公
+
+</div>
+
+<br>
+
+通过桥接器配置，你可以在手机端通过钉钉、飞书等 IM 平台远程操控 NexusBot，实现真正的移动办公。
+
+<table>
+<tr>
+<td width="50%">
+
+### 📱 支持平台
+
+<div style="background: #e3f2fd; border-radius: 12px; padding: 20px; margin: 8px;">
+
+**钉钉 (DingTalk)**  
+✅ Stream 模式实时通信  
+✅ AI Card 流式输出  
+✅ 支持单聊和群聊
+
+**飞书 (Feishu/Lark)**  
+✅ 长连接模式  
+✅ 完整功能支持  
+✅ 企业级稳定
+
+</div>
+
+</td>
+<td width="50%">
+
+### 🎯 使用场景
+
+<div style="background: #f3e5f5; border-radius: 12px; padding: 20px; margin: 8px;">
+
+**出差路上**  
+手机发送指令，家里电脑自动执行
+
+**通勤时间**  
+地铁上处理工作，办公室电脑完成任务
+
+**随时随地**  
+7×24 小时待命，不受地点限制
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div style="background: linear-gradient(to right, #fff3e0, #ffe0b2); border-radius: 16px; padding: 24px; margin: 20px 0;">
+
+### 💡 桥接器工作流程
+
+**手机端（钉钉/飞书）**  
+→ 发送指令：「帮我汇总今天的邮件并生成简报」
+
+**电脑端（NexusBot）**  
+→ 自动接收指令 → 执行任务 → 生成结果
+
+**手机端**  
+→ 接收结果通知 → 查看完成的简报
+
+**配置简单**：只需在 NexusBot 中填入机器人凭证，即可开始使用
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## 🛡️ 沙箱安全模式
+
+<div align="center">
+
+### 隔离环境执行代码 · 保护系统安全
+
+</div>
+
+<br>
+
+沙箱模式让 AI 在隔离的虚拟环境中执行代码，保护你的系统安全。
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔒 安全特性
+
+<div style="background: #e3f2fd; border-radius: 12px; padding: 20px; margin: 8px;">
+
+**VM 虚拟环境**  
+代码在独立环境中运行
+
+**访问限制**  
+限制对本地文件系统的访问
+
+**网络监控**  
+网络请求受到监控和限制
+
+**风险检测**  
+自动检测潜在的危险操作
+
+</div>
+
+</td>
+<td width="50%">
+
+### 🎯 执行模式
+
+<div style="background: #f3e5f5; border-radius: 12px; padding: 20px; margin: 8px;">
+
+**自动模式（推荐）**  
+优先使用沙箱，不可用时回退本地
+
+**本地运行**  
+直接在本机执行，性能最佳
+
+**仅沙箱（最高安全）**  
+强制使用沙箱，拒绝本地执行
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div style="background: linear-gradient(to right, #e8f5e9, #c8e6c9); border-radius: 16px; padding: 24px; margin: 20px 0;">
+
+### 💡 适用场景
+
+✅ 测试不确定来源或逻辑的代码  
+✅ 运行第三方提供的脚本  
+✅ 学习和实验新技术  
+✅ 处理不受信任的数据
+
+**首次使用**：点击「安装沙箱」按钮，系统会自动下载并配置虚拟环境（约 200MB）
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+**预计耗时：5-10 分钟**（传统方式可能需要 1-2 小时）
+
+</div>
 
 **NexusBot** 是基于 [OpenClaw](https://openclaw.ai/) 深度开发的中文版发行版，专为中文用户和企业打造。
 
