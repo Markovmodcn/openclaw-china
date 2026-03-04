@@ -36,6 +36,16 @@ It runs complete delivery loops: goal understanding, planning, execution, verifi
 
 ---
 
+## Key Differences vs Typical Wrapper Tools
+
+- Typical wrappers: chat relay only; NEUXSBOT: execution engine, toolchain, and task-state control
+- Typical wrappers: one-shot answers; NEUXSBOT: resumable multi-turn execution and delivery loops
+- Typical wrappers: web-only interaction; NEUXSBOT: desktop local runtime plus DingTalk/Feishu remote trigger
+- Typical wrappers: single-model binding; NEUXSBOT: hybrid orchestration across global and local models
+- Typical wrappers: weak safety gates; NEUXSBOT: sandbox policy, permission checks, and risk isolation
+
+---
+
 ## Core Capabilities
 
 ### IDE auto-development (primary focus)
@@ -57,7 +67,7 @@ It runs complete delivery loops: goal understanding, planning, execution, verifi
 ### Cost advantage for global model usage
 - `RMB 20/day pass` is available, with lower effective cost in monthly plans
 - Under comparable capability scope, it can cover roughly `US$90` of overseas model usage quota
-- Using the 2026-03-04 FX snapshot (1 USD ≈ 6.915 CNY), `US$90 ≈ RMB 622`
+- Using the 2026-03-04 FX snapshot (1 USD about 6.915 CNY), `US$90 is about RMB 622`
 
 ### Phone-to-PC remote auto-development
 - Trigger tasks remotely through DingTalk / Feishu bridge connectors
@@ -106,10 +116,9 @@ It runs complete delivery loops: goal understanding, planning, execution, verifi
 
 ---
 
-## Repository Scope
+## Repository Overview
 
-This repository presents NEUXSBOT product capabilities, architecture, and public documentation entry points.  
-Full commercial source code is not included.
+This repository provides NEUXSBOT capability highlights, update notes, documentation entry points, and feedback channels.
 
 ---
 
