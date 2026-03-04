@@ -17,7 +17,7 @@ The focus is not chat-only UX. The focus is a delivery-grade task system: orches
 
 ---
 
-## Key Differentiators (based on your local web/frontend/docs)
+## Key Differentiators (Product Capability View)
 
 ### 1. AI Talent Marketplace (primary)
 - Productized as an **AI talent pool / skills marketplace**, not a plain skill list
