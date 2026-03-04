@@ -54,10 +54,10 @@ It runs complete delivery loops: goal understanding, planning, execution, verifi
 - Unified model configuration layer to reduce switching overhead
 - Hybrid orchestration across cloud models and local Ollama models
 
-### Cost efficiency (typical workload benchmark)
-- Comparable overseas stacks can reach around `US$90/day`
-- NEUXSBOT typical blended usage can be as low as around `RMB 20/day`
-- Actual cost depends on model choice, token volume, and workload intensity
+### Cost advantage for global model usage
+- `RMB 20/day pass` is available, with lower effective cost in monthly plans
+- Under comparable capability scope, it can cover roughly `US$90` of overseas model usage quota
+- Using the 2026-03-04 FX snapshot (1 USD ≈ 6.915 CNY), `US$90 ≈ RMB 622`
 
 ### Phone-to-PC remote auto-development
 - Trigger tasks remotely through DingTalk / Feishu bridge connectors
