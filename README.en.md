@@ -10,203 +10,106 @@
 
 ---
 
-## Software Positioning
+## Product Positioning
 
-NEUXSBOT is a deeply optimized OpenClaw Chinese edition positioned as a next-generation AI operating system.  
-It is not just a chat assistant. It is designed for full execution loops: goal understanding, task decomposition, capability invocation, and deliverable output.
-
-Based on the local product docs and frontend implementation, NEUXSBOT focuses on:
-
-- continuous 24/7 task execution
-- coding and automation productivity
-- multi-model and skill orchestration
-- local deployment and controllable security
+NEUXSBOT is a deeply engineered OpenClaw Chinese edition built for real execution, not a thin chat wrapper.  
+It runs complete delivery loops: goal understanding, planning, execution, verification, and iterative output.
 
 ---
 
-## Core Functional Capabilities
+## Why It Is Not a Wrapper
 
-### 1. IDE-Based Development and Code Execution (Primary Focus)
+### 1. Execution-first architecture, not just UI on top of a model
+- Built around a Cowork execution pipeline rather than plain prompt forwarding
+- Supports tool invocation, file operations, command execution, and task replay
+- Includes explicit permission and safety control in the run loop
 
-`NEUXSBOT IDE` is built for real engineering workflows.
+### 2. Real software development workflow
+- Built-in `NEUXSBOT IDE` for requirement-to-code implementation
+- Multi-turn coding iteration, incremental refactoring, testing, and automation flows
+- Focused on getting work done, not only giving suggestions
 
-- generate executable code from natural language requirements
-- iterate with multi-turn refinement
-- maintain context across revisions
-- support frontend work, automation scripts, and testing tasks
-
-Typical flow:
-
-1. define the target
-2. generate the first implementation
-3. add constraints and standards
-4. auto-revise with context
-5. iterate until delivery-ready
+### 3. Local-first deployment model
+- Fully local deployment and local data persistence
+- Switchable sandbox/local execution modes for security and performance balance
+- Phone is only a remote control endpoint, not the compute endpoint
 
 ---
 
-### 2. Intelligent Chat and Task Management
+## Core Capabilities
 
-The conversation interface acts as an execution hub with persistent context.
+### IDE auto-development (primary focus)
+- Natural language to executable code
+- Fast frontend page/component generation
+- Playwright automation test script generation
+- Iterative coding, refactoring, and debug assistance
 
-- context-aware reasoning across turns
-- direct file upload and analysis
-- iterative task collaboration
-- automatic task history
-- task operations such as rename, pin, and cleanup
+### GUI one-click installation (OpenClaw China edition)
+- Desktop GUI setup and configuration
+- Supports Windows, macOS, and Linux
+- Also supports command-line quick deployment
 
----
+### No-proxy access to top global models
+- Supports high-end model capabilities from OpenAI, Anthropic, Google, and more
+- Unified model configuration layer to reduce switching overhead
+- Hybrid orchestration across cloud models and local Ollama models
 
-### 3. Skill System (Extensible Execution Layer)
+### Cost efficiency (typical workload benchmark)
+- Comparable overseas stacks can reach around `US$90/day`
+- NEUXSBOT typical blended usage can be as low as around `RMB 20/day`
+- Actual cost depends on model choice, token volume, and workload intensity
 
-Skills are execution modules that can be enabled based on task type.
+### Phone-to-PC remote auto-development
+- Trigger tasks remotely through DingTalk / Feishu bridge connectors
+- Send instructions from mobile, execute automatically on desktop
+- Fits commuting, travel, and distributed collaboration scenarios
 
-Document and office skills:
+### Skill system (extensible capability layer)
+- Built-in skills for docs, spreadsheets, PPT, PDF, web search, frontend design, and browser automation
+- `skill-creator` support for custom team skills
+- Skill on/off control per task for predictable execution
 
-- `docx`: Word generation and extraction
-- `xlsx`: spreadsheet processing and analysis
-- `pptx`: presentation generation
-- `pdf`: PDF parsing and structured extraction
+### Secure execution and permission control
+- Auto-sandbox-first / local / sandbox-only execution strategies
+- Optional manual confirmation for risky file or command operations
+- Designed for both productivity and enterprise safety requirements
 
-Development and automation skills:
-
-- `frontend-design`: UI and component generation
-- `playwright`: browser automation and testing
-- `develop-web-game`: web game development
-
-Utility and extension skills:
-
-- `web-search`: live information lookup
-- `create-plan`: planning and decomposition
-- `skill-creator`: team-level custom skill creation
-
----
-
-### 4. Workflow Execution Scenarios
-
-Local documentation examples cover practical production scenarios:
-
-- automated data analysis report generation
-- rapid frontend component implementation
-- E2E automation test script creation
-- multi-format document extraction and conversion
-
-The product is designed for step-by-step task completion, not one-shot answers.
+### Continuous task capability
+- Persistent task history and resumable sessions
+- Long-context memory support
+- Scheduled task execution with result delivery
 
 ---
 
-### 5. Multi-Model Stack and Local Deployment
+## Typical Use Cases
 
-NEUXSBOT supports multiple model providers and local model deployment.
-
-Cloud model directions (examples):
-
-- OpenAI
-- Anthropic
-- Google
-- DeepSeek
-- Moonshot
-- Qwen
-- GLM
-- MiniMax
-- OpenRouter
-
-Local model direction:
-
-- Ollama local deployment
-- offline-capable local model execution
-- suitable for privacy-sensitive or intranet scenarios
+- Daily productivity automation: reports, summaries, document generation
+- Engineering delivery: requirement breakdown, coding, testing, release prep
+- Data analysis workflows: feature analysis, validation loops, visual outputs
+- Enterprise remote collaboration: mobile command + desktop execution + multi-platform response
 
 ---
 
-### 6. IM Bridge for Remote Collaboration
-
-Through bridge connectors, NEUXSBOT can be remotely operated from IM platforms while execution remains on the desktop side.
-
-Documented platforms include:
-
-- DingTalk
-- Feishu / Lark
-
-Key capabilities:
-
-- bot integration setup
-- messaging execution loop
-- enterprise remote operations
-- multi-platform bridge configuration
-
----
-
-### 7. Sandbox Security Execution
-
-NEUXSBOT includes sandbox execution for untrusted scripts and code tasks.
-
-Execution modes:
-
-- auto mode (sandbox first)
-- local mode
-- sandbox-only mode
-
-Security goals:
-
-- isolated execution
-- controlled filesystem access
-- risk reduction for unsafe operations
-- configurable balance between safety and performance
-
----
-
-### 8. Data Analysis System (Independent Product Module)
-
-NEUXSBOT includes a dedicated data analysis subsystem with model fusion and validation loops.
-
-Publicly documented capabilities include:
-
-- multi-dimensional probability analysis
-- feature engineering and model integration
-- historical backtesting and validation
-- visualized analysis output
-
-Documented technical directions include:
-
-- Markov chain
-- LSTM
-- XGBoost
-
----
-
-### 9. Cross-Platform Installation
-
-NEUXSBOT provides GUI-first installation paths and cross-platform support:
-
-- Windows
-- macOS
-- Linux
-
-It also supports command-line quick installation for automation-oriented workflows.
-
----
-
-## Architecture and Capability Visuals
+## Architecture Visuals
 
 <p align="center">
-  <img src="./images/architecture.jpg" alt="Architecture" width="860" />
+  <img src="./images/architecture.jpg" alt="Architecture" width="900" />
 </p>
 
 <p align="center">
-  <img src="./images/ai-capability-matrix.jpg" alt="Capability Matrix" width="860" />
+  <img src="./images/ai-capability-matrix.jpg" alt="Capability Matrix" width="900" />
 </p>
 
 <p align="center">
-  <img src="./images/business-scenarios.jpg" alt="Business Scenarios" width="860" />
+  <img src="./images/business-scenarios.jpg" alt="Business Scenarios" width="900" />
 </p>
 
 ---
 
 ## Repository Scope
 
-This repository is for NEUXSBOT software capability introduction and public documentation entry points.  
-Full business source code implementation is not included in this repository.
+This repository presents NEUXSBOT product capabilities, architecture, and public documentation entry points.  
+Full commercial source code is not included.
 
 ---
 
@@ -216,4 +119,3 @@ Full business source code implementation is not included in this repository.
 - Docs: https://www.neuxsbot.com/docs
 - Download: https://www.neuxsbot.com/download
 - Issues: https://github.com/Markovmodcn/openclaw-china/issues
-
