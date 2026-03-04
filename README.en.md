@@ -12,37 +12,37 @@
 
 ## Product Positioning
 
-NEUXSBOT is a deeply engineered OpenClaw Chinese edition built for real execution, not a thin chat wrapper.  
-It runs complete delivery loops: goal understanding, planning, execution, verification, and iterative output.
+NEUXSBOT is not a light rebrand. It is a **heavy, reconstruction-level secondary development** built on OpenClaw.  
+The goal is not chat demos. The goal is direct delivery: plan, execute, iterate, and ship results.
 
 ---
 
-## Why It Is Not a Wrapper
+## Current OpenClaw Native Capabilities (Official Scope)
 
-### 1. Execution-first architecture, not just UI on top of a model
-- Built around a Cowork execution pipeline rather than plain prompt forwarding
-- Supports tool invocation, file operations, command execution, and task replay
-- Includes explicit permission and safety control in the run loop
+Based on OpenClaw official docs/repo (checked on 2026-03-04):
 
-### 2. Real software development workflow
-- Built-in `NEUXSBOT IDE` for requirement-to-code implementation
-- Multi-turn coding iteration, incremental refactoring, testing, and automation flows
-- Focused on getting work done, not only giving suggestions
-
-### 3. Local-first deployment model
-- Fully local deployment and local data persistence
-- Switchable sandbox/local execution modes for security and performance balance
-- Phone is only a remote control endpoint, not the compute endpoint
+- Single-Gateway multi-channel access (WhatsApp, Telegram, Discord, iMessage, etc.)
+- Multi-agent routing with isolated sessions per workspace/sender
+- First-class typed tools (browser, canvas, nodes, cron) with allow/deny and profiles
+- Node architecture for macOS/iOS/Android/headless over Gateway WebSocket
+- Unified model references via `provider/model` across many providers (OpenAI, Anthropic, OpenRouter, Ollama, etc.)
+- Deployment/ops flow with `openclaw onboard`, Web Control UI, and daemon mode
 
 ---
 
-## Key Differences vs Typical Wrapper Tools
+## NEUXSBOT Reconstruction-Level Enhancements (based on local web/frontend/docs)
 
-- Typical wrappers: chat relay only; NEUXSBOT: execution engine, toolchain, and task-state control
-- Typical wrappers: one-shot answers; NEUXSBOT: resumable multi-turn execution and delivery loops
-- Typical wrappers: web-only interaction; NEUXSBOT: desktop local runtime plus DingTalk/Feishu remote trigger
-- Typical wrappers: single-model binding; NEUXSBOT: hybrid orchestration across global and local models
-- Typical wrappers: weak safety gates; NEUXSBOT: sandbox policy, permission checks, and risk isolation
+| Area | OpenClaw Native Capability | NEUXSBOT Enhanced Outcome |
+|---|---|---|
+| Productized adoption | CLI/wizard-first setup | GUI one-click install with localized Chinese setup flow |
+| Dev productivity | General agent runtime + tools | Built-in `NEUXSBOT IDE` with stronger requirement -> code -> test -> iteration loop |
+| Remote development | Multi-channel message access | DingTalk/Feishu bridge for phone command + desktop auto-execution |
+| Runtime safety | Gateway-level policy controls | Local / sandbox-first / sandbox-only modes with explicit risky-operation approvals |
+| Model orchestration | Multi-provider model access | No-proxy global-model access path + hybrid orchestration with local Ollama |
+| Skill extensibility | Plugin and skills ecosystem | Built-in office/dev skill packs + `skill-creator` for team private capabilities |
+| Continuous delivery | Session and routing foundation | Persistent memory, resumable task history, scheduled execution and return |
+
+In short: **this is not a skin on OpenClaw; it is a productized engineering upgrade for Chinese real-world development and automation workflows.**
 
 ---
 
