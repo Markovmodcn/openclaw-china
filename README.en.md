@@ -1,68 +1,86 @@
 # NEUXSBOT
 
-## OpenClaw Chinese Edition with GUI One-Click Setup
+## OpenClaw Chinese Edition
+## GUI One-Click AI Operating System
 
-NEUXSBOT is a China-focused OpenClaw edition designed for active execution workflows, not just passive chat.
+[![Repo](https://img.shields.io/badge/Repo-openclaw--china-1f6feb)](https://github.com/Markovmodcn/openclaw-china)
+[![Website](https://img.shields.io/badge/Website-neuxsbot.com-00b894)](https://www.neuxsbot.com)
+[![Docs](https://img.shields.io/badge/Docs-Online-0ea5e9)](https://www.neuxsbot.com/docs)
 
-- GUI-first product experience
-- One-click install path for desktop users
-- Strong focus on IDE-based code development
-- Multi-model orchestration and extensible skills
-
-For bilingual details, see [README.md](./README.md).
+[中文](./README.md)
 
 ---
 
-## Key Highlights
+## Overview
 
-### IDE-Centered Code Development
+NEUXSBOT is a China-focused OpenClaw edition designed to move AI from passive chat to active execution.  
+It combines a desktop execution core, visual configuration, extensible skills, and multi-model orchestration.
 
-- Built-in `NEUXSBOT IDE` for real development tasks
-- Continuous workflow: requirement -> code -> refine
+---
+
+## Navigation Aligned with Local Frontend
+
+The top navigation follows the local frontend structure:
+
+- Home
+- Product
+- Subscription
+- Enterprise
+- Download
+- Docs
+
+The Product dropdown includes:
+
+- `NEUXSBOT IDE`: AI autonomous development and code generation
+- `NBPHONE`: AI-native terminal and ecosystem entry
+- `Data Analysis System`: AI-powered stock analysis and strategy platform
+
+---
+
+## IDE Code Development (Primary Focus)
+
+- Built-in `NEUXSBOT IDE` for real coding workflows
+- End-to-end flow: requirement -> code generation -> revision -> iteration
 - Multi-turn context, task history, and skill-enhanced coding
-
-### GUI One-Click Installation
-
-- Visual entry for setup and configuration
-- Windows / macOS / Linux download support
-- Optional CLI quick install mode
-
-### OpenClaw Chinese Edition Experience
-
-- Chinese-first docs and localization
-- Enterprise communication scenario adaptation
-- Visual model / workflow / skill configuration
-
-### Multi-Model + Skills
-
-- Cloud and local model switching
-- Local model support (e.g., Ollama)
-- Extensible skill system for coding, documents, and automation
-
-### Data Analysis Subsystem
-
-- Multi-dimensional probability analysis workspace
-- Markov chain, LSTM, and XGBoost-oriented analysis ideas
-- Multi-analyzer and backtesting-oriented workflow
+- Suitable for frontend development, automation scripts, and testing tasks
 
 ---
 
-## Web Modules (from local frontend structure)
+## GUI One-Click Installation
 
-| Module | Route | Purpose |
+- Visual setup entry for lower onboarding cost
+- Download page supports Windows / macOS / Linux
+- Optional command-line quick install path
+- Docs center includes quick start, model config, and workflow guides
+
+---
+
+## Core Capabilities
+
+- AI operating system experience: from chat to execution
+- Multi-model orchestration: cloud and local model switching
+- Skill system: coding, documentation, and automation scenarios
+- Workflow execution loop: planning, execution, and feedback
+- Data analysis subsystem: multi-dimensional probability analysis lab
+
+---
+
+## Frontend Routes (from local frontend)
+
+| Module | Route | Description |
 |---|---|---|
-| Home | `/` | AI OS overview |
+| Home | `/` | Product entry and capability overview |
 | IDE | `/ide` | Coding and execution workspace |
-| NBPHONE | `/product/phone` | Product direction page |
+| NBPHONE | `/product/phone` | Terminal product direction |
 | Data Analysis | `/data-analysis` | Analysis lab |
 | Docs | `/docs` | Quick start and configuration guides |
-| Download | `/download` | Multi-platform install entry |
-| Enterprise | `/enterprise` | Enterprise workflow direction |
+| Download | `/download` | Multi-platform installation entry |
+| Enterprise | `/enterprise` | Enterprise collaboration and deployment direction |
 | Member | `/member` | Account and console features |
 
 ---
 
-## Visual Assets
+## Architecture and Capability Visuals
 
 <p align="center">
   <img src="./images/architecture.jpg" alt="Architecture" width="860" />
@@ -81,8 +99,8 @@ For bilingual details, see [README.md](./README.md).
 ## Repository Scope
 
 - Product profile and public documentation repository
-- Full business source code is not included
-- UI demo assets (GIF/interface demos) are temporarily removed
+- Full business source code is not included at this stage
+- UI demo assets (GIF / interface demo) are temporarily hidden
 
 ---
 
@@ -92,4 +110,3 @@ For bilingual details, see [README.md](./README.md).
 - Docs: [https://www.neuxsbot.com/docs](https://www.neuxsbot.com/docs)
 - Download: [https://www.neuxsbot.com/download](https://www.neuxsbot.com/download)
 - Issues: [https://github.com/Markovmodcn/openclaw-china/issues](https://github.com/Markovmodcn/openclaw-china/issues)
-
