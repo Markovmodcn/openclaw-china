@@ -1,5 +1,4 @@
 # NEUXSBOT
-
 ## OpenClaw Chinese Edition
 ## GUI One-Click AI Operating System
 
@@ -11,16 +10,28 @@
 
 ---
 
-## Overview
+## Product Positioning
 
 NEUXSBOT is a China-focused OpenClaw edition designed to move AI from passive chat to active execution.  
-It combines a desktop execution core, visual configuration, extensible skills, and multi-model orchestration.
+Instead of only answering prompts, it is built for complete task delivery:
+
+- understand the goal
+- plan execution steps
+- invoke models and skills
+- iterate with context
+- deliver reusable outputs
+
+The product focuses on three practical principles:
+
+- GUI-first usability
+- code and automation productivity
+- real workflow execution
 
 ---
 
 ## Navigation Aligned with Local Frontend
 
-The top navigation follows the local frontend structure:
+The public profile matches the local frontend top navigation:
 
 - Home
 - Product
@@ -29,54 +40,111 @@ The top navigation follows the local frontend structure:
 - Download
 - Docs
 
-The Product dropdown includes:
+The Product dropdown matches local entries:
 
-- `NEUXSBOT IDE`: AI autonomous development and code generation
+- `NEUXSBOT IDE`: autonomous AI development workspace
 - `NBPHONE`: AI-native terminal and ecosystem entry
 - `Data Analysis System`: AI-powered stock analysis and strategy platform
 
 ---
 
-## IDE Code Development (Primary Focus)
-
-- Built-in `NEUXSBOT IDE` for real coding workflows
-- End-to-end flow: requirement -> code generation -> revision -> iteration
-- Multi-turn context, task history, and skill-enhanced coding
-- Suitable for frontend development, automation scripts, and testing tasks
-
----
-
-## GUI One-Click Installation
-
-- Visual setup entry for lower onboarding cost
-- Download page supports Windows / macOS / Linux
-- Optional command-line quick install path
-- Docs center includes quick start, model config, and workflow guides
-
----
-
 ## Core Capabilities
 
-- AI operating system experience: from chat to execution
-- Multi-model orchestration: cloud and local model switching
-- Skill system: coding, documentation, and automation scenarios
-- Workflow execution loop: planning, execution, and feedback
-- Data analysis subsystem: multi-dimensional probability analysis lab
+### 1) IDE-Centered Code Development (Primary Focus)
+
+`NEUXSBOT IDE` is a core pillar of the product, designed for end-to-end software tasks from prompt to runnable result.
+
+Key capabilities:
+
+- requirement-to-code generation
+- iterative revision and refinement
+- context-aware continuation across multi-turn tasks
+- support for frontend, automation scripts, and test workflows
+- skill-assisted development for domain-specific output
+
+Typical development flow:
+
+1. define the implementation target
+2. generate initial code structure
+3. add constraints (style, quality, edge cases)
+4. auto-revise with context
+5. iterate until production-ready output
 
 ---
 
-## Frontend Routes (from local frontend)
+### 2) GUI One-Click Setup and Launch
+
+NEUXSBOT is designed for fast onboarding through visual setup paths.
+
+- multi-platform download entry (Windows / macOS / Linux)
+- GUI-oriented install and startup
+- optional CLI quick install
+- docs center for first-run setup and environment configuration
+
+This approach is aimed at team-wide adoption, not just advanced operators.
+
+---
+
+### 3) Multi-Model Orchestration + Skills
+
+NEUXSBOT supports both cloud and local models, with flexible switching by task type.  
+Its skill system converts generic AI into domain-executable capabilities.
+
+- unified model switching
+- local model support (e.g., Ollama)
+- extensible skills for coding, documents, automation, and analysis
+- task history and context continuity
+
+In practice, the skill layer acts as a capability amplifier for stable execution outcomes.
+
+---
+
+### 4) Data Analysis Subsystem
+
+The local frontend includes a dedicated "multi-dimensional probability analysis lab" module with model fusion and validation loops.
+
+Capability directions include:
+
+- feature engineering pipelines
+- multi-model integrated analysis
+- backtesting and validation workflows
+- visual and traceable output structure
+
+Public model references include:
+
+- Markov chain
+- LSTM
+- XGBoost
+
+This module is positioned as a full analysis support system rather than a one-off tool.
+
+---
+
+### 5) Enterprise Execution and Collaboration
+
+For enterprise scenarios, NEUXSBOT emphasizes executable and manageable workflows:
+
+- from assistant chat to active execution agents
+- automated task-chain orchestration
+- team collaboration with result feedback loops
+- scalable integration paths for organizational use
+
+It is suitable for recurring operations, engineering collaboration, and process automation.
+
+---
+
+## Frontend Routes (from Local Frontend Structure)
 
 | Module | Route | Description |
 |---|---|---|
-| Home | `/` | Product entry and capability overview |
-| IDE | `/ide` | Coding and execution workspace |
-| NBPHONE | `/product/phone` | Terminal product direction |
-| Data Analysis | `/data-analysis` | Analysis lab |
-| Docs | `/docs` | Quick start and configuration guides |
-| Download | `/download` | Multi-platform installation entry |
-| Enterprise | `/enterprise` | Enterprise collaboration and deployment direction |
-| Member | `/member` | Account and console features |
+| Home | `/` | product entry and capability overview |
+| IDE | `/ide` | coding and execution workspace |
+| NBPHONE | `/product/phone` | AI terminal product direction |
+| Data Analysis | `/data-analysis` | multi-model analysis lab |
+| Docs | `/docs` | quick start, model config, workflow guides |
+| Download | `/download` | multi-platform installation entry |
+| Enterprise | `/enterprise` | enterprise collaboration and deployment direction |
+| Member | `/member` | account and console functions |
 
 ---
 
@@ -98,15 +166,21 @@ The Product dropdown includes:
 
 ## Repository Scope
 
-- Product profile and public documentation repository
-- Full business source code is not included at this stage
-- UI demo assets (GIF / interface demo) are temporarily hidden
+This repository is used for public product profile and documentation entry points:
+
+- external product introduction
+- feature and module overview
+- installation and usage guide links
+
+Full business source code is not included in this repository at this stage.  
+UI demo assets (GIF/interface demos) are currently not used as primary showcase content.
 
 ---
 
 ## Links
 
-- Website: [https://www.neuxsbot.com](https://www.neuxsbot.com)
-- Docs: [https://www.neuxsbot.com/docs](https://www.neuxsbot.com/docs)
-- Download: [https://www.neuxsbot.com/download](https://www.neuxsbot.com/download)
-- Issues: [https://github.com/Markovmodcn/openclaw-china/issues](https://github.com/Markovmodcn/openclaw-china/issues)
+- Website: https://www.neuxsbot.com
+- Docs: https://www.neuxsbot.com/docs
+- Download: https://www.neuxsbot.com/download
+- Issues: https://github.com/Markovmodcn/openclaw-china/issues
+
