@@ -35,12 +35,17 @@ The focus is not chat-only UX. The focus is a delivery-grade task system: orches
 - Skills can be enabled/disabled, shared, and accumulated as team assets
 - Skill routing integrates into task execution for a repeatable delivery loop
 
-### 4. IDE Delivery Loop
+### 4. Auto Learning and Memory (primary)
+- Captures execution experience during tasks and writes memory back to reduce repeated prompting and setup
+- Reuses historical tasks and outcomes as persistent preferences, workflow templates, and knowledge snippets
+- Works with custom skills to solidify high-frequency patterns into callable skills and improve execution quality
+
+### 5. IDE Delivery Loop
 - Built-in `NEUXSBOT IDE` with requirement -> code -> test -> iteration flow
 - Covers frontend coding, automation scripts, and test generation tasks
 - Delivery-first workflow instead of suggestion-only responses
 
-### 5. Model and Cost Advantage
+### 6. Model and Cost Advantage
 - No-proxy path for top global model capabilities
 - Hybrid orchestration across cloud models and local Ollama models
 - `RMB 20/day pass` with better monthly economics; under comparable scope it can cover roughly `US$90` of model usage (about `RMB 622`)
@@ -55,6 +60,7 @@ NEUXSBOT focuses on productizing those foundations into:
 - marketplace-scale talent/skill operations (14,000+ records)
 - task-hub operations (planning/execution/history/feedback)
 - team skill assetization (custom skills + reuse)
+- memory assetization (auto learning + auto memory + reusable experience)
 
 ---
 
