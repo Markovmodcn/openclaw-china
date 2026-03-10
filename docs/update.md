@@ -1,13 +1,13 @@
-# 🔄 NexusBot 更新升级
+# 🔄 NEUXSBOT 更新升级
 
-保持 NexusBot 最新版本，获取最新功能和安全更新。
+保持 NEUXSBOT 最新版本，获取最新功能和安全更新。
 
 ---
 
 ## 🔔 检查更新
 
 ### 自动检查
-NexusBot 会自动检查更新，有新版本时会提示。
+NEUXSBOT 会自动检查更新，有新版本时会提示。
 
 ### 手动检查
 设置 → 关于 → 检查更新
@@ -19,10 +19,18 @@ NexusBot 会自动检查更新，有新版本时会提示。
 ### Windows
 
 **安装版**
-1. 下载最新的 `NexusBot-Setup.exe`
+1. 下载最新安装包：
+   `https://www.neuxsbot.com/api/v1/system/public/download/version/11d86bdf-b659-4aee-a090-972029779355/windows.exe`
 2. 运行安装程序
-3. 选择"覆盖安装"
+3. 选择“覆盖安装”
 4. 数据和配置会自动保留
+
+**命令安装**
+```powershell
+$installer = Join-Path $env:TEMP 'NEUXSBOT-Setup-0.1.21.exe'
+Invoke-WebRequest -Uri 'https://www.neuxsbot.com/api/v1/system/public/download/version/11d86bdf-b659-4aee-a090-972029779355/windows.exe' -OutFile $installer
+Start-Process -FilePath $installer
+```
 
 **绿色版**
 1. 下载最新的 `NexusBot-Portable.exe`
@@ -97,7 +105,7 @@ https://github.com/Markovmodcn/openclaw-china/releases
 ## ⚠️ 注意事项
 
 1. **更新前备份数据**
-2. **关闭 NexusBot 再更新**
+2. **关闭 NEUXSBOT 再更新**
 3. **检查系统要求**
 4. **阅读更新日志**
 
@@ -112,7 +120,7 @@ https://github.com/Markovmodcn/openclaw-china/releases
 - macOS/Linux: 使用 sudo
 
 **文件被占用**
-- 完全关闭 NexusBot
+- 完全关闭 NEUXSBOT
 - 重启电脑后再试
 
 **网络问题**
