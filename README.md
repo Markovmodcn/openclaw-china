@@ -2,7 +2,7 @@
 
 # NEUXSBOT
 
-### 面向未来的 AI 原生工作系统，让 AI 从回答工具进化为真正可承接任务、可驱动执行、可完成交付的高阶生产力引擎
+### OpenClaw 中文版 - 开箱即用的 AI 原生工作系统，让智能从回答走向任务理解、执行协同与结果交付
 
 <img src="./images/logo.png" alt="NEUXSBOT" width="180">
 
