@@ -1,152 +1,193 @@
 <div align="center">
-  <img src="./images/logo.png" alt="NEUXSBOT Logo" width="180" />
 
 # NEUXSBOT
-### OpenClaw 中国版本
-### 图形化一键安装的 AI 操作系统
 
-[![Repo](https://img.shields.io/badge/Repo-openclaw--china-1f6feb)](https://github.com/Markovmodcn/openclaw-china)
-[![Website](https://img.shields.io/badge/Website-neuxsbot.com-00b894)](https://www.neuxsbot.com)
-[![Docs](https://img.shields.io/badge/Docs-Online-0ea5e9)](https://www.neuxsbot.com/docs)
+### 面向真实开发与交付场景的 AI 原生工作流系统
 
-[English](./README.en.md)
+<img src="./images/logo.png" alt="NEUXSBOT" width="180">
+
+<br>
+
+[![Website](https://img.shields.io/badge/官网-NEUXSBOT-00C853)](https://www.neuxsbot.com)
+[![Download](https://img.shields.io/badge/下载-客户端-2496ED)](https://www.neuxsbot.com/download)
+[![Platform](https://img.shields.io/badge/支持-Windows%20%7C%20macOS%20%7C%20Linux-FF6B6B)]()
+[![Workflow](https://img.shields.io/badge/定位-AI%20Workflow%20System-9C27B0)]()
+[![GitHub release](https://img.shields.io/github/v/release/Markovmodcn/openclaw-china)](https://github.com/Markovmodcn/openclaw-china/releases)
+
+[简体中文](./README.md) · [English](./README.en.md)
+
+**官网：** [https://www.neuxsbot.com](https://www.neuxsbot.com)  
+**下载：** [https://www.neuxsbot.com/download](https://www.neuxsbot.com/download)
+
+</div>
+
+<br>
+
+---
+
+## NEUXSBOT 是什么
+
+**NEUXSBOT 是一套面向真实开发与交付场景持续演进的 AI 原生工作流系统。**
+
+它不是一个简单的聊天助手，不是一个代码补全插件，也不是把上游项目改几句文案、换一套界面之后的套壳产品。  
+NEUXSBOT 的核心目标，从来都不是让 AI 停留在“会回答”这一层，而是让 AI 真正进入更完整的开发执行链，参与理解、规划、执行、验证与交付。
+
+从需求输入、任务拆解、上下文承接，到技能调用、工具执行、智能体协同、多任务推进，再到测试验证与结果收口，NEUXSBOT 更关注的是一整条真正可落地、可持续、可演进的工作主链。
+
+一句话概括：
+
+> **NEUXSBOT 的重点不是让 AI 看起来更聪明，而是让 AI 更稳定地进入真实开发与交付链。**
+
+---
+
+## 为什么是 NEUXSBOT
+
+很多 AI 产品擅长展示模型能力，但真正进入研发、测试、协作和交付流程之后，决定价值的从来都不是“它能不能说”，而是：
+
+- 它能不能稳定承接上下文
+- 它能不能持续推进任务
+- 它能不能正确调用技能与工具
+- 它能不能在多轮执行中保持状态
+- 它能不能把过程真正收口成结果
+- 它能不能融入真实工作流，而不是停留在演示层
+
+NEUXSBOT 的产品路线，正是围绕这些关键问题持续打磨出来的。  
+它不是为了让 AI 看起来更热闹，而是为了让 AI 更稳定地进入真实开发与交付系统。
+
+---
+
+## NEUXSBOT 的核心优势
+
+### 1. 不是聊天壳，而是开发执行系统
+
+传统 AI 产品的核心交互是“提问 - 回答”。  
+NEUXSBOT 的核心交互是“目标 - 理解 - 拆解 - 执行 - 验证 - 收口 - 交付”。
+
+这意味着它不只是提供建议，而是围绕完整工作流设计，覆盖：
+
+- 需求理解
+- 任务规划
+- 上下文管理
+- 技能与工具调用
+- Agent 协同
+- 多任务推进
+- 结果整理与交付准备
+
+NEUXSBOT 不是一个只会说话的 AI。  
+它更接近一个真正开始参与工作的 AI 系统。
+
+### 2. 强调真实可交付，而不是“模型回了字”
+
+在很多产品里，模型给出一段看起来不错的回复，就会被当成“已经完成”。  
+但在 NEUXSBOT 的逻辑里，这远远不够。
+
+我们更关注的是：
+
+- 技能是否真的产生产物
+- 工具是否完成调用闭环
+- 智能体是否按链路执行
+- 多任务是否稳定承接
+- 最终输出是否真正成为可验证、可交付的结果
+
+也就是说，NEUXSBOT 不把“回复”当终点，而把“结果”当终点。
+
+### 3. 强在系统承接能力，而不只是模型能力
+
+NEUXSBOT 的优势不只是模型本身，而在于系统级承接能力。  
+它关注的不只是“AI 能不能生成内容”，而是：
+
+- runtime 是否稳定
+- gateway 是否可靠
+- session 是否清晰
+- bridge 是否能正确承接信息
+- 技能 / 工具 / Agent 是否稳定收口
+- 多任务与桌面工作流是否可以持续推进
+
+这让 NEUXSBOT 更接近一个成熟工作系统，而不是一个单点能力展示工具。
+
+### 4. 独立产品路线，不依附上游界面
+
+NEUXSBOT 不是对某个上游 UI 的直接复制。  
+它有自己的产品壳、自己的结构、自己的工作流表达方式。
+
+这意味着它不是被动跟随某个界面变化，而是在稳定内核能力之上，形成了独立的产品路线与长期演进空间。  
+对于真正要做长期产品的人来说，这一点很重要。
+
+### 5. 面向中文团队的本地化能力
+
+NEUXSBOT 从一开始就不是只做“翻译版 AI”，而是围绕中文场景下真实研发和交付路径持续优化。
+
+它更适合中文团队的原因在于，它不仅处理语言，更处理整个本地工作流，包括：
+
+- 更符合中文团队习惯的产品表达
+- 多模型切换能力
+- 桌面端工作流承接
+- 移动端协同
+- 更完整的任务中枢与技能体系
+- 更贴近真实业务环境的产品结构
+
+---
+
+## 我们真正关注的，不是回答，而是完成
+
+NEUXSBOT 想解决的，不是“AI 能不能再多回答一点”，而是：
+
+- AI 能不能更稳定地承接任务
+- AI 能不能更自然地进入开发流程
+- AI 能不能真正参与执行，而不只是围观
+- AI 能不能把技能、工具、智能体和任务链连接起来
+- AI 能不能从单轮问答，走向系统级工作流
+
+这也是 NEUXSBOT 与普通 AI 工具最本质的区别。
+
+别人还在让 AI 回答问题，  
+NEUXSBOT 已经在让 AI 进入真实执行系统。
+
+---
+
+## 适用场景
+
+NEUXSBOT 适合用于以下类型的工作与团队场景：
+
+- 日常软件研发与代码交付
+- 自动化任务编排
+- 技能 / 工具 / Agent 协同执行
+- 多任务与桌面工作流承接
+- 移动端插单与桌面端执行协同
+- 面向真实业务环境的 AI 工作系统建设
+
+它不只是适合“让 AI 辅助写一段代码”，更适合“让 AI 在真实项目中承担一部分执行职责”。
+
+---
+
+## 获取 NEUXSBOT
+
+### 官网
+
+- [https://www.neuxsbot.com](https://www.neuxsbot.com)
+
+### 下载地址
+
+- [https://www.neuxsbot.com/download](https://www.neuxsbot.com/download)
+
+---
+
+## 关注我们
+
+### 公众号二维码
+
+<div align="center">
+  <img src="./images/gzh.jpg" width="220" alt="NEUXSBOT 公众号二维码" style="border-radius: 12px;">
+</div>
+
+<div align="center">
+扫码关注公众号，获取 NEUXSBOT 最新动态、产品更新与使用说明。
 </div>
 
 ---
 
-## 产品定位
+## 一句话总结
 
-NEUXSBOT 是基于 OpenClaw 的深度二次开发中国版本。  
-核心目标不是只做对话，而是把 AI 变成可持续交付的任务系统：可编排、可执行、可追踪、可复用。
+**NEUXSBOT 不是一个普通 AI 助手。**  
+**它是一套面向真实开发与交付场景持续演进的 AI 原生工作流系统。**
 
----
-
-## 最新更新（v0.1.21）
-
-NEUXSBOT v0.1.21 正式上线。
-
-本次更新面向 AI 开发、智能协作与自动化交付场景，重点强化开发模式执行链路，优化思考过程与中文交互表现，提升任务连续推进能力，让 AI 不只是“会聊天”，而是真正能参与开发、推进任务、辅助交付。
-
-本次版本重点包括：
-
-- 强化 `IDE / SOLO` 开发模式的执行闭环，减少“发一句停一句”的割裂感
-- 优化思考过程、任务规划、中文工作流与执行反馈展示
-- 提升开发任务连续推进能力，更贴近专业 AI 开发 IDE 的交互体验
-- 修复若干影响稳定性的问题，提升整体可用性与协作效率
-- 内置更完整的人才市场与技能生态，支持 **14,000+ / 15,000 级别**技能能力扩展
-- 持续向 AI 开发工作台、智能任务中枢与自动化交付平台方向演进
-
-这是 NEUXSBOT 的首发增强版本，后续将持续围绕 AI 开发、技能生态、自动学习、任务协同与自动执行能力不断更新迭代。
-
----
-
-## 下载与安装
-
-### Windows 下载安装地址
-
-- 浏览器下载：
-  `https://www.neuxsbot.com/api/v1/system/public/download/version/11d86bdf-b659-4aee-a090-972029779355/windows.exe`
-
-### Windows 命令安装
-
-```powershell
-$installer = Join-Path $env:TEMP 'NEUXSBOT-Setup-0.1.21.exe'
-Invoke-WebRequest -Uri 'https://www.neuxsbot.com/api/v1/system/public/download/version/11d86bdf-b659-4aee-a090-972029779355/windows.exe' -OutFile $installer
-Start-Process -FilePath $installer
-```
-
-### 文档入口
-
-- 使用手册：https://www.neuxsbot.com/docs
-- 下载页：https://www.neuxsbot.com/download
-
----
-
-## 重点差异（产品能力维度）
-
-### 1. AI 人才市场（核心）
-- 产品中已是“AI 人才库 / 技能市场”形态，不是简单技能列表
-- 支持人才检索、分类筛选、候选/录用/淘汰、邀约面试等流程
-- 支持本地人才索引状态展示（档案数量、同步时间、仓库版本）
-- 本地 `market-index` 快照统计：**14,746** 条技能档案（可表述为 14,000+）
-
-### 2. 任务中枢（核心）
-- 任务全生命周期：新建、搜索、重命名、置顶、删除、历史续跑
-- 任务上下文持续保存，面向“多轮推进”而非一次性问答
-- 定时任务系统：支持 Cron 计划执行、手动触发、执行历史、异常记录
-
-### 3. 自定义技能体系（核心）
-- 内置 `skill-creator`，支持创建团队自定义技能
-- 技能可启停、可共享、可沉淀为团队内部能力库
-- 支持技能路由到任务执行链路，形成“技能 -> 任务 -> 结果”的闭环
-
-### 4. 自动学习与自动记忆（核心）
-- 支持任务过程中的经验沉淀与记忆回写，减少重复指令与重复配置
-- 基于历史任务与执行结果，形成可复用的偏好、流程模板与知识片段
-- 可与自定义技能联动，把高频经验固化为可调用技能，持续提升执行质量
-
-### 5. IDE 开发闭环
-- 内置 `NEUXSBOT IDE`，强化“需求 -> 代码 -> 测试 -> 迭代”
-- 支持前端开发、自动化脚本、测试脚本等开发任务
-- 更强调交付结果，而不是仅输出建议
-
-### 6. 模型与成本优势
-- 无需代理接入国外顶级模型能力
-- 支持云端模型与本地模型（Ollama）混合编排
-- 提供 `20 元天卡`，包月更优惠；同等能力口径可覆盖约 `90 美元`调用额度（约 `622 元人民币`）
-
----
-
-## OpenClaw 原生能力与 NEUXSBOT 二开方向
-
-OpenClaw 原生已具备远程接入、本地执行、多模型等底座能力。  
-NEUXSBOT 的重点不是重复这些底座，而是把它们产品化为：
-
-- 人才市场化（14,000+ 技能档案）
-- 任务中枢化（任务/计划/历史/回传）
-- 团队技能资产化（自定义技能与复用）
-- 记忆资产化（自动学习 + 自动记忆 + 经验沉淀）
-
----
-
-## 典型应用场景
-
-- 工程开发：需求拆解、代码生成、自动化测试与迭代交付
-- 运营场景：流程自动化、定时任务、日报/周报自动产出
-- 团队协作：人才市场选型 + 任务中枢调度 + 结果追踪
-- 移动协同：手机发指令，桌面端持续执行复杂任务
-
----
-
-## 架构与能力图
-
-<p align="center">
-  <img src="./images/architecture.jpg" alt="系统架构图" width="900" />
-</p>
-
-<p align="center">
-  <img src="./images/ai-capability-matrix.jpg" alt="AI 能力矩阵图" width="900" />
-</p>
-
-<p align="center">
-  <img src="./images/business-scenarios.jpg" alt="业务场景图" width="900" />
-</p>
-
----
-
-## 仓库说明
-
-本仓库用于发布 NEUXSBOT 产品能力、文档入口与反馈通道。
-
----
-
-## 链接与反馈
-
-- 官网：https://www.neuxsbot.com
-- 文档：https://www.neuxsbot.com/docs
-- 下载：https://www.neuxsbot.com/download
-- 问题反馈：https://github.com/Markovmodcn/openclaw-china/issues
-
-<p align="center">
-  <img src="./images/wx.png" alt="微信联系" width="220" />
-</p>
