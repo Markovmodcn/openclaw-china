@@ -1,103 +1,65 @@
 # NEUXSBOT
-## OpenClaw Chinese Edition
-## GUI One-Click AI Operating System
 
-[![Repo](https://img.shields.io/badge/Repo-openclaw--china-1f6feb)](https://github.com/Markovmodcn/openclaw-china)
-[![Website](https://img.shields.io/badge/Website-neuxsbot.com-00b894)](https://www.neuxsbot.com)
-[![Docs](https://img.shields.io/badge/Docs-Online-0ea5e9)](https://www.neuxsbot.com/docs)
+### An AI-native workflow system built for real development and delivery
 
-[中文](./README.md)
+**Website:** [https://www.neuxsbot.com](https://www.neuxsbot.com)  
+**Download:** [https://www.neuxsbot.com/download](https://www.neuxsbot.com/download)
 
----
+NEUXSBOT is not just another chat assistant, code completion tool, or re-skinned upstream UI.  
+It is an AI-native workflow system designed to move AI from “answering” to “executing”.
 
-## Product Positioning
+NEUXSBOT focuses on the full working chain:
 
-NEUXSBOT is a deeply engineered Chinese edition built on OpenClaw.  
-The focus is not chat-only UX. The focus is a delivery-grade task system: orchestrated, executable, traceable, and reusable.
+- understanding goals
+- breaking down tasks
+- handling context and session state
+- invoking skills and tools
+- coordinating agents
+- pushing multi-step execution forward
+- verifying results
+- closing the loop toward delivery
 
----
+In short:
 
-## Key Differentiators (Product Capability View)
+> **NEUXSBOT is not built to look smart in demos. It is built to work inside real development and delivery pipelines.**
 
-### 1. AI Talent Marketplace (primary)
-- Productized as an **AI talent pool / skills marketplace**, not a plain skill list
-- Supports search, category filtering, candidate/hire/fire states, and invite/interview flows
-- Shows local talent-index status (record count, sync time, repo revision)
-- Local `market-index` snapshot contains **14,746** skill records (safe public phrasing: 14,000+)
+## Core strengths
 
-### 2. Task Hub (primary)
-- Full task lifecycle: create, search, rename, pin, delete, resume
-- Persistent task context for multi-turn execution, not one-shot answers
-- Scheduled-task engine: cron scheduling, manual trigger, run history, and error records
+### 1. Not a chat shell, but an execution-oriented system
 
-### 3. Custom Skill System (primary)
-- Built-in `skill-creator` for team-specific custom skills
-- Skills can be enabled/disabled, shared, and accumulated as team assets
-- Skill routing integrates into task execution for a repeatable delivery loop
+NEUXSBOT is designed around workflow, not just conversation.  
+It aims to help AI participate in real work, not simply produce replies.
 
-### 4. Auto Learning and Memory (primary)
-- Captures execution experience during tasks and writes memory back to reduce repeated prompting and setup
-- Reuses historical tasks and outcomes as persistent preferences, workflow templates, and knowledge snippets
-- Works with custom skills to solidify high-frequency patterns into callable skills and improve execution quality
+### 2. Focused on deliverable results
 
-### 5. IDE Delivery Loop
-- Built-in `NEUXSBOT IDE` with requirement -> code -> test -> iteration flow
-- Covers frontend coding, automation scripts, and test generation tasks
-- Delivery-first workflow instead of suggestion-only responses
+A response is not the finish line.  
+NEUXSBOT cares about whether skills actually produce outputs, whether tools complete their loops, and whether execution leads to verifiable results.
 
-### 6. Model and Cost Advantage
-- No-proxy path for top global model capabilities
-- Hybrid orchestration across cloud models and local Ollama models
-- `RMB 20/day pass` with better monthly economics; under comparable scope it can cover roughly `US$90` of model usage (about `RMB 622`)
+### 3. Strong in system orchestration, not only model output
 
----
+Its value comes from stable runtime handling, gateway flow, session continuity, task progression, and tool / agent coordination across a longer chain.
 
-## OpenClaw Baseline vs NEUXSBOT Secondary Focus
+### 4. Product-grade local workflow
 
-OpenClaw already provides strong foundations (remote access, local execution, multi-model support).  
-NEUXSBOT focuses on productizing those foundations into:
+NEUXSBOT follows its own product path instead of acting as a direct mirror of an upstream interface.  
+It is designed as a long-term local product system, not a temporary wrapper.
 
-- marketplace-scale talent/skill operations (14,000+ records)
-- task-hub operations (planning/execution/history/feedback)
-- team skill assetization (custom skills + reuse)
-- memory assetization (auto learning + auto memory + reusable experience)
+### 5. Built for Chinese teams and real-world usage
 
----
+The project is optimized for practical workflows, local collaboration patterns, multi-model usage, desktop execution, and mobile-assisted task insertion.
 
-## Typical Use Cases
+## Follow us
 
-- Engineering delivery: requirement breakdown, coding, testing, iterative shipping
-- Operations automation: scheduled jobs, process automation, report generation
-- Team collaboration: talent selection + task dispatch + result tracking
-- Mobile collaboration: command from phone, persistent desktop execution
+### Official WeChat QR Code
 
----
+<div align="center">
+  <img src="./images/gzh.jpg" width="220" alt="NEUXSBOT WeChat QR Code">
+</div>
 
-## Architecture Visuals
+Scan the QR code to follow the official account for product updates and release news.
 
-<p align="center">
-  <img src="./images/architecture.jpg" alt="Architecture" width="900" />
-</p>
+## Summary
 
-<p align="center">
-  <img src="./images/ai-capability-matrix.jpg" alt="Capability Matrix" width="900" />
-</p>
+**NEUXSBOT is not a typical AI assistant.**  
+**It is an AI-native workflow system built for real development and delivery.**
 
-<p align="center">
-  <img src="./images/business-scenarios.jpg" alt="Business Scenarios" width="900" />
-</p>
-
----
-
-## Repository Overview
-
-This repository provides NEUXSBOT capability highlights, docs entry points, and feedback channels.
-
----
-
-## Links
-
-- Website: https://www.neuxsbot.com
-- Docs: https://www.neuxsbot.com/docs
-- Download: https://www.neuxsbot.com/download
-- Issues: https://github.com/Markovmodcn/openclaw-china/issues
