@@ -1,124 +1,157 @@
 # NEUXSBOT
 
-### An AI-native work system for the future, built to move AI beyond answering and into real task ownership, intelligent execution, multi-agent coordination, and delivery-ready results
+### OpenClaw Chinese Edition - An out-of-the-box AI-native work system that moves intelligence from answering into task understanding, execution collaboration, and delivery-ready results
 
 **Website:** [https://www.neuxsbot.com](https://www.neuxsbot.com)  
 **Download:** [https://www.neuxsbot.com/download](https://www.neuxsbot.com/download)
 
-## Positioning
+## Product Positioning
 
 **NEUXSBOT is an AI-native work system built for real development, real collaboration, and real delivery.**
 
-It is designed to move AI beyond one-off conversation and into the full working chain: understanding goals, breaking down tasks, carrying context, invoking skills, running tools, coordinating agents, verifying outcomes, and closing the loop toward delivery.
+It is not designed as a one-off conversational assistant or a lightweight demo tool.  
+The value of NEUXSBOT lies in pushing AI into the full working chain, so intelligence no longer stops at giving answers, but keeps moving through goal understanding, task decomposition, context continuity, tool execution, agent collaboration, result validation, and final delivery.
 
-From desktop execution workflows to mobile coordination, from multi-model access to multi-task progression, from skill invocation to tool completion, NEUXSBOT is built around the system strength that determines whether AI can truly work inside production environments.
+From desktop workflows to mobile collaboration, from multi-model access to multi-task progression, from skill invocation to tool closure, from session continuity to execution-chain completion, NEUXSBOT is built around the stability, execution strength, and long-term evolution that real work systems require.
 
 In one sentence:
 
-> **NEUXSBOT is not built to simply generate responses. It is built to keep work moving and turn execution into results.**
+> **NEUXSBOT is not built to make AI look busy. It is built to let AI enter production workflows and deliver stable results.**
+
+<div align="center">
+  <img src="./images/execution-chain-overview.png" alt="NEUXSBOT execution chain overview" width="100%">
+</div>
 
 ## Why NEUXSBOT Feels More Powerful
 
-The real difference between AI products is not only model quality. It is whether the system can:
+What determines the upper limit of an AI product is not only the model itself, but whether the whole system can truly land in real work:
 
-- carry context reliably
-- understand tasks and push them forward
-- connect skills, tools, and agents into one chain
-- support longer execution flows without losing state
-- convert intermediate steps into verifiable output
-- bridge desktop and mobile collaboration smoothly
-- evolve into a long-term work system instead of staying as a demo surface
+- whether it can carry context reliably
+- whether it can understand tasks and break them into execution
+- whether it can connect skills, tools, and agents into one chain
+- whether it can keep advancing through multi-step execution
+- whether it can turn intermediate process into verifiable results
+- whether it can create smooth collaboration between desktop and mobile
+- whether it can evolve as a long-term product instead of staying as a one-time demo
 
-That is the layer where NEUXSBOT focuses its product strength.
+The core strength of NEUXSBOT is exactly this: turning the critical links of real productivity into a complete system instead of stopping at “the model answered well”.
 
 ## Capability Matrix
 
-### 1. Full execution chain instead of single-turn chat
+### 1. A full execution chain instead of single-turn chat
 
-NEUXSBOT is designed around a full work sequence:
+The core interaction model of NEUXSBOT is not simply “question -> answer”, but a full chain:
 
-**goal input -> task understanding -> planning -> state continuity -> skill invocation -> tool execution -> agent collaboration -> validation -> delivery closure**
+**goal input -> task understanding -> plan decomposition -> state continuity -> skill invocation -> tool execution -> agent collaboration -> result validation -> delivery closure**
 
-This makes it more than a conversation tool. It becomes a system that can help move real work forward.
+That means it does more than generate content. It keeps work moving and helps AI participate in real execution.
 
-### 2. Stronger runtime, gateway, and session continuity
+### 2. A stronger Runtime / Gateway / Session backbone
 
-Powerful AI products need stable system plumbing.  
-NEUXSBOT keeps improving the `runtime / gateway / session / event / bridge` chain so information, state, tasks, and outputs can travel through longer flows without breaking down.
+Truly powerful AI systems are not defined only by better models, but by stronger underlying continuity.  
+NEUXSBOT keeps refining and strengthening the `runtime / gateway / session / event / bridge` chain, so information, state, tasks, and execution results can remain connected across longer workflows.
 
-That stability is what allows real project usage instead of short-lived interaction.
+This system-level stability is what allows it to support real projects, real teams, and real delivery rather than only a beautiful single response.
+
+<div align="center">
+  <img src="./images/runtime-architecture.png" alt="NEUXSBOT runtime architecture" width="100%">
+</div>
 
 ### 3. High-intensity coordination across skills, tools, and agents
 
-NEUXSBOT treats AI as an execution system, not as a single chat endpoint.  
-Skills, tools, and agents are organized into a working chain that supports calling, execution, feedback, and closure.
+NEUXSBOT does not treat AI as a single large-model entry point. It organizes skills, tools, and agents into a sustainable execution system.  
+In complex tasks, AI is no longer limited to suggestions. It can participate in a full loop of invocation, execution, feedback, and closure.
 
-This makes it fit naturally for:
+That makes it well suited for:
 
-- software delivery
-- automation workflows
-- multi-step task execution
-- skill-based work orchestration
+- software development
+- automation orchestration
+- multi-step execution scenarios
+- skill-based workflows
 - multi-agent collaboration
 
 ### 4. Multi-task progression and task hub capability
 
 Real work is never single-threaded.  
-NEUXSBOT is designed to carry multiple tasks, multiple contexts, and multiple execution paths in one system, making it closer to a real productivity hub than a simple chat surface.
+NEUXSBOT places strong emphasis on multi-task carrying capability, so different tasks, different contexts, and different execution paths can be managed and advanced together inside one work system.
+
+That makes it more than a chat window. It becomes a true AI work hub for high-density production scenarios.
+
+<div align="center">
+  <img src="./images/task-hub.png" alt="NEUXSBOT task hub" width="100%">
+</div>
 
 ### 5. Multi-model access and flexible switching
 
-Different tasks need different model strategies.  
-NEUXSBOT supports multi-model access and switching, allowing users to balance speed, cost, reasoning depth, and execution needs across real workflows.
+Different tasks require different model strategies.  
+NEUXSBOT supports multi-model access and switching, allowing users to choose a more suitable execution path based on cost, speed, reasoning depth, and task type.
+
+This is not simple model showcasing. It is capability orchestration for real workflows.
 
 ### 6. Harness Engineering and local intelligence enhancement
 
-The strength of NEUXSBOT comes not only from models, but from stronger harness design and local intelligence enhancement.  
-It focuses on the layers that actually determine delivery quality:
+The power of NEUXSBOT comes not only from models, but from stronger Harness Engineering and local intelligence enhancement.  
+It focuses on the layers that truly shape delivery quality: task decomposition, context assembly, state management, tool contracts, runtime orchestration, result closure, and local workflow enhancement.
 
-- task decomposition
-- context assembly
-- state management
-- tool and skill contracts
-- orchestration
-- result closure
-- local workflow enhancement
+This is also why NEUXSBOT can keep getting stronger:
 
-That is what helps NEUXSBOT grow into a stronger long-term system.
+- steadier task decomposition
+- more reliable state continuity
+- more natural skill triggering
+- stronger result closure
+- richer local workflow expression
 
-### 7. Desktop-first execution with mobile-linked collaboration
+<div align="center">
+  <img src="./images/memory-system.png" alt="NEUXSBOT memory system" width="100%">
+</div>
 
-NEUXSBOT is built for practical usage patterns.  
-Desktop handles the main workflow and heavy execution. Mobile supports quick task insertion, coordination, and follow-up. Together they create a more complete productivity flow.
+### 7. Desktop-first workflows with mobile-linked collaboration
 
-### 8. Productized for Chinese teams and real local workflows
+NEUXSBOT does not split desktop and mobile into isolated experiences. It builds a connected collaboration chain around real usage habits.  
+Desktop is ideal for primary workflows and complex execution. Mobile is ideal for task insertion, information capture, and quick follow-up. Together they form a more complete working experience.
 
-NEUXSBOT is not only localized at the language layer. It is shaped around the actual habits of Chinese teams, including clearer product structure, stronger local workflow alignment, and a more natural collaboration path for real business usage.
+For high-frequency users, this kind of collaboration is far more valuable than isolated single-point features.
 
-## Focused on Completion, Not Just Answers
+<div align="center">
+  <img src="./images/desktop-mobile-workflow.png" alt="NEUXSBOT desktop and mobile collaboration" width="100%">
+</div>
 
-NEUXSBOT is built around the questions that matter in real work:
+### 8. Productized experience for Chinese teams
 
-- Can AI carry tasks more reliably?
-- Can AI connect skills, tools, and agents correctly?
-- Can AI continue execution across complex chains?
-- Can AI remain effective in multi-task environments?
-- Can AI turn process into results?
-- Can AI become part of a real production system?
+NEUXSBOT is closer to the communication, development, and delivery habits of Chinese teams.  
+Its localization is not limited to language. It is productized around real Chinese user workflows, including:
 
-That is why NEUXSBOT is built as a work system, not just an assistant.
+- clearer product structure
+- workflow expression that matches local team habits
+- a more complete desktop shell and task organization
+- collaboration patterns better suited to real business environments
 
-## Where It Fits
+## What We Care About Is Not Answering, But Completing
 
-NEUXSBOT is well suited for:
+The problem NEUXSBOT wants to solve is not “can AI say a little more”, but:
 
-- software development and code delivery
-- AI-enhanced engineering workflows
-- multi-step automation
+- can AI carry tasks more reliably
+- can AI connect skills, tools, and agents more accurately
+- can AI keep advancing through complex chains
+- can AI stay effective inside multi-task environments
+- can AI turn process into real outcomes
+- can AI become part of a real production system
+
+While many products still stop at response quality, NEUXSBOT is focused on execution strength, system stability, and final delivery ability.
+
+## Where NEUXSBOT Fits
+
+NEUXSBOT is suitable for scenarios such as:
+
+- daily software development and code delivery
+- AI-enhanced workflows for technical teams
+- multi-step automation orchestration
 - coordinated execution across skills, tools, and agents
-- multi-task progression and state-heavy work
+- parallel task progression and state-heavy management
 - desktop-led execution with mobile collaboration
-- AI work system construction for real business environments
+- building AI work systems for real business environments
+
+It is not just about helping users ask a question. It helps teams move work forward, accumulate results, and improve delivery efficiency across longer chains of work.
 
 ## Get NEUXSBOT
 
@@ -145,4 +178,4 @@ Follow the official account and reply with 【邀请码】
 ## Summary
 
 **NEUXSBOT is not a typical AI assistant.**  
-**It is an AI-native work system that connects understanding, planning, execution, coordination, and delivery into one powerful workflow.**
+**It is an AI-native work system that truly connects understanding, planning, execution, coordination, and delivery into one complete workflow.**
