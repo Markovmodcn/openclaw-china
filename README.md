@@ -36,6 +36,10 @@ NEUXSBOT 的价值，在于把 AI 能力真正推进到完整工作链中，让�
 
 > **NEUXSBOT 要做的，不是让 AI 看起来更热闹，而是让 AI 真正进入生产流程，稳定地产出结果。**
 
+<div align="center">
+  <img src="./images/execution-chain-overview.png" alt="NEUXSBOT 执行链总览" width="100%">
+</div>
+
 ---
 
 ## 为什么 NEUXSBOT 更强
@@ -71,6 +75,10 @@ NEUXSBOT 围绕 `runtime / gateway / session / event / bridge` 持续收敛与�
 
 这种系统级稳定性，决定了它能不能支撑真实项目、真实团队和真实交付，而不只是完成一轮漂亮回复。
 
+<div align="center">
+  <img src="./images/runtime-architecture.png" alt="NEUXSBOT 底层架构" width="100%">
+</div>
+
 ### 3. 技能、工具、Agent 的高强度协同
 
 NEUXSBOT 不是把 AI 当成一个单点大模型入口，而是把技能、工具与 Agent 组织成可持续推进的工作系统。  
@@ -90,6 +98,10 @@ NEUXSBOT 不是把 AI 当成一个单点大模型入口，而是把技能、工�
 NEUXSBOT 更强调多任务承接能力，让不同任务、不同上下文和不同执行链路可以在同一工作系统中被稳定管理和推进。
 
 这让它不只是一个“聊天窗口”，而更像一个真正面向高密度生产场景的 AI 工作中枢。
+
+<div align="center">
+  <img src="./images/task-hub.png" alt="NEUXSBOT 多任务中枢" width="100%">
+</div>
 
 ### 5. 多模型接入与灵活切换能力
 
@@ -111,12 +123,20 @@ NEUXSBOT 的强大，不只来自模型能力，更来自更稳的 Harness 与�
 - 更强的结果收口
 - 更完整的本地工作流表达
 
+<div align="center">
+  <img src="./images/memory-system.png" alt="NEUXSBOT 三层记忆系统" width="100%">
+</div>
+
 ### 7. 桌面端主工作流与移动端联动协同
 
 NEUXSBOT 不把桌面和移动割裂开来，而是围绕真实使用习惯构建协同链路。  
 桌面端适合承接主工作流与复杂执行，移动端适合补充任务、插入信息、快速联动，二者共同组成更完整的使用场景。
 
 对于高频使用者来说，这种协同体验比单点功能更有价值。
+
+<div align="center">
+  <img src="./images/desktop-mobile-workflow.png" alt="NEUXSBOT 桌面与移动协同" width="100%">
+</div>
 
 ### 8. 面向中文团队的产品化表达
 
